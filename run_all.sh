@@ -12,7 +12,14 @@ case "${1:-verificar}" in
       echo "== $p"; python "src/$p.py" > /dev/null; done
     python src/00_verificar.py ;;
   publico)
-    mkdir -p publico; zip -qr publico/observatorio_ia_publico.zip . -x "data/raw/*" "data/lectura_humana/avisos_muestra_con_texto.csv" "*.pkl" ".git/*" "publico/*" "__pycache__/*"
+    mkdir -p publico
+    cat > LEEME_VERSION_PUBLICA.md <<'TXT'
+# Versión pública
+Esta versión NO incluye `data/raw/` (respuestas crudas de las fuentes) ni los textos de los avisos, por las condiciones de LinkedIn y Get on Board. Sí incluye código, configuración, informe, tablas sin texto (identificadores, URL, huellas), manifiestos y documentación. Se puede ejecutar `./run_all.sh verificar` (los archivos ausentes figuran como «no presente»). Para reconstruir desde los crudos hace falta el repositorio privado del equipo. Ignorar las referencias del README a `data/raw/` y a `reconstruir`.
+TXT
+    rm -f publico/observatorio_ia_publico.zip
+    zip -qr publico/observatorio_ia_publico.zip . -x "data/raw/*" "data/lectura_humana/avisos_muestra_con_texto.csv" "*.pkl" ".git/*" "publico/*" "__pycache__/*" "*/__pycache__/*"
+    rm -f LEEME_VERSION_PUBLICA.md
     echo "Creado publico/observatorio_ia_publico.zip" ;;
   verificar) python src/00_verificar.py; python src/09_figuras.py; python src/10_perfilado_de_datos.py ;;
   edicion)

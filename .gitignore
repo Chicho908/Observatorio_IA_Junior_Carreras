@@ -9,3 +9,4 @@ __pycache__/
 *.fdb_latexmk
 informe/informe_v1.tex
 publico/
+LEEME_VERSION_PUBLICA.md
