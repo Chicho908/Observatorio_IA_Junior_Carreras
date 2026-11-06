@@ -63,5 +63,5 @@ for f in sorted(glob.glob("data/raw/agregadores/*.json")):
             add(fuente, n, x["id"], consulta, (x.get("links") or {}).get("public_url"), ms(a.get("published_at")) if isinstance(a.get("published_at"), (int, float)) else str(a.get("published_at") or "")[:10],
                 a.get("title"), comp, pais, a.get("remote_modality"), sen, texto_plano(a.get("description")), solo_humano=True)
 d = pd.DataFrame(filas)
-d.to_pickle("data/processed/api_unificado_bruto.pkl")
+d.to_pickle("data/processed/avisos_api_bruto.pkl")
 print(d.groupby("fuente").size().to_string(), "\nTOTAL filas", len(d), "| ids únicos", d.id_unico.nunique())

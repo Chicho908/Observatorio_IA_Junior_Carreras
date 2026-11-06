@@ -1,0 +1,1 @@
+{"greenhouse": {"ok": 117, "inexistente": 27, "error": 0}, "lever": {"ok": 56, "inexistente": 25, "error": 0}, "ashby": {"ok": 238, "inexistente": 50, "error": 0}}

@@ -2,7 +2,7 @@
 import json, re, numpy as np, pandas as pd
 PAR = json.load(open("config/parametros.json"))
 SEMILLA, B = PAR["semilla"], PAR["remuestreos"]
-m = pd.read_pickle("data/processed/muestra_entrada_IA.pkl")
+m = pd.read_pickle("data/processed/avisos_muestra_analisis.pkl")
 m = m[~m.codificacion_solo_humana].reset_index(drop=True)
 dic = json.load(open("config/diccionario_habilidades.json"))
 cols, grupo = [], {}
@@ -22,7 +22,7 @@ for c in todas:
     out.append((c, grupo.get(c, "resumen"), int(S.sum()), round(100*p, 1), round(100*lo, 1), round(100*hi, 1)))
 r = pd.DataFrame(out, columns=["habilidad", "grupo", "avisos", "pct", "ic_inf", "ic_sup"])
 print("n avisos:", len(m), "| empresas:", E); print(r.to_string(index=False))
-r.to_csv("data/processed/demanda_linea_base.csv", index=False)
+r.to_csv("data/processed/resultados_demanda_linea_base.csv", index=False)
 ar = m[m.acceso == "Argentina"]; print("\nArgentina n=", len(ar), "(solo conteos):"); print(ar[todas].sum().to_string())
 # sensibilidad: sin tope (todas las empresas con todos sus avisos únicos de la muestra previa al tope se evalúan aparte en etapa 5); aquí: solo avisos con 2 años o menos de 1 año
 print("\nSolo <=1 año (n=%d):" % (m.anios_req <= 1).sum()); print(m[m.anios_req <= 1][todas].mean().mul(100).round(1).to_string())

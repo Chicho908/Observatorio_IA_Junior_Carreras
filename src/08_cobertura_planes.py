@@ -28,4 +28,4 @@ g2, m2, ic2 = boot(d2); print("limite a 1:", g2.round(2).to_dict(), round(m2,3),
 d3 = d.copy(); d3.loc[(d3.carrera.str.startswith("UADE"))&(d3.habilidad=="Integración"),"x"]=0
 g3, m3, ic3 = boot(d3); print("UADE integracion=0:", g3.round(2).to_dict(), round(m3,3), ic3.round(3))
 t = tab.reset_index(); print("Delta por carrera, media simple:", round(t.delta.mean(),3))
-tab.round(3).to_csv("data/processed/cobertura_planes_por_carrera.csv")
+tab.round(3).to_csv("data/processed/resultados_cobertura_planes.csv")

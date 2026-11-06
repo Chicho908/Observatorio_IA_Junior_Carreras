@@ -1,0 +1,3701 @@
+[
+ {
+  "archivo": "data/raw/boards/lever__adora.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/adora?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:46:32+00:00",
+  "http": 200,
+  "bytes": 49095,
+  "sha256": "6a69f2e4fba3967e80901fdb40fa027956a690b011032b86af3e1ee3cb2066e4"
+ },
+ {
+  "archivo": "data/raw/boards/lever__apolloresearch.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/apolloresearch?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:46:38+00:00",
+  "http": 200,
+  "bytes": 247320,
+  "sha256": "c3148eb860e2eeba327875b9bb2060d11999c248ddfce698a1364fabdaad4cc6"
+ },
+ {
+  "archivo": "data/raw/boards/lever__aquabyte.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/aquabyte?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:46:40+00:00",
+  "http": 200,
+  "bytes": 32082,
+  "sha256": "fe1186db41f7742449eadd876a87c6d4cad16605f9cb38ef34b8d2826f9e48b1"
+ },
+ {
+  "archivo": "data/raw/boards/lever__articulate.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/articulate?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:46:49+00:00",
+  "http": 200,
+  "bytes": 43578,
+  "sha256": "162e4f6225d337e93e1f1eb3cca6cea4a75cb80ebb6c4559765bb138dea5eda1"
+ },
+ {
+  "archivo": "data/raw/boards/lever__atomcomputing.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/atomcomputing?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:46:51+00:00",
+  "http": 200,
+  "bytes": 308774,
+  "sha256": "2f79316e5ab8f7209a00d6408ceae8e5363eea12a88a0467bcc613677c5e37d0"
+ },
+ {
+  "archivo": "data/raw/boards/lever__auw.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/auw?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:46:53+00:00",
+  "http": 200,
+  "bytes": 122529,
+  "sha256": "c0519e3347627da51c83071ae738f0bff61fd6dd65d71bb46eba790ab732069d"
+ },
+ {
+  "archivo": "data/raw/boards/lever__bazaarvoice.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/bazaarvoice?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:46:55+00:00",
+  "http": 200,
+  "bytes": 256065,
+  "sha256": "2e792cce7f0745bdc9c76c47562e50332ba2af2b042ac749a5f64b7a0413a35b"
+ },
+ {
+  "archivo": "data/raw/boards/lever__better.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/better?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:46:57+00:00",
+  "http": 200,
+  "bytes": 2,
+  "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+ },
+ {
+  "archivo": "data/raw/boards/lever__branch.gg.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/branch.gg?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:46:59+00:00",
+  "http": 200,
+  "bytes": 3377,
+  "sha256": "cedfef5937683e7997f4baa95aac2c2cc7734178c77758417aad88cb9b264cf7"
+ },
+ {
+  "archivo": "data/raw/boards/lever__brilliant.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/brilliant?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:00+00:00",
+  "http": 200,
+  "bytes": 70443,
+  "sha256": "c7a7303c5a6f1df4759d984e32409eec6251e8749a23531f357d05ef8bd7f4c0"
+ },
+ {
+  "archivo": "data/raw/boards/lever__caremessage.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/caremessage?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:04+00:00",
+  "http": 200,
+  "bytes": 2,
+  "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+ },
+ {
+  "archivo": "data/raw/boards/lever__cfsenergy.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/cfsenergy?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:09+00:00",
+  "http": 200,
+  "bytes": 2344538,
+  "sha256": "6fe59a4de4d0acc5682ea69465060a7ba71d9b4bc655a29389be1cebb8d0d07b"
+ },
+ {
+  "archivo": "data/raw/boards/lever__corbalt.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/corbalt?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:13+00:00",
+  "http": 200,
+  "bytes": 2,
+  "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+ },
+ {
+  "archivo": "data/raw/boards/lever__curai.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/curai?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:15+00:00",
+  "http": 200,
+  "bytes": 55410,
+  "sha256": "5154cfec3afe9bcc535409ed3bf8b9f329d51451088f23af733423ca6095e6dc"
+ },
+ {
+  "archivo": "data/raw/boards/lever__cyngn.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/cyngn?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:20+00:00",
+  "http": 200,
+  "bytes": 2,
+  "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+ },
+ {
+  "archivo": "data/raw/boards/lever__devcycle.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/devcycle?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:22+00:00",
+  "http": 200,
+  "bytes": 2,
+  "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+ },
+ {
+  "archivo": "data/raw/boards/lever__disqo.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/disqo?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:24+00:00",
+  "http": 200,
+  "bytes": 86924,
+  "sha256": "3ac7e989b61d5b19fdac1e75a261d309d1a7ddbbeb41f9d7fb2f6617f01b4f2e"
+ },
+ {
+  "archivo": "data/raw/boards/lever__distru.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/distru?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:26+00:00",
+  "http": 200,
+  "bytes": 66434,
+  "sha256": "b92a283bfb0450a94a949a4d2cde2a045d95f725f9d0d96d5e571ef7f224f2ac"
+ },
+ {
+  "archivo": "data/raw/boards/lever__electric-twin.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/electric-twin?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:28+00:00",
+  "http": 200,
+  "bytes": 2,
+  "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+ },
+ {
+  "archivo": "data/raw/boards/lever__eleostech.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/eleostech?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:30+00:00",
+  "http": 200,
+  "bytes": 13455,
+  "sha256": "2d1fbf5a33bd219b1bfd773ab65815965f4ec20c58a30af80623470936ee0c81"
+ },
+ {
+  "archivo": "data/raw/boards/lever__finch.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/finch?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:35+00:00",
+  "http": 200,
+  "bytes": 109007,
+  "sha256": "7a59eda9c94c358cb96962f9dd03f9ff2eae60d1b00ae66776027fdcd66a33f2"
+ },
+ {
+  "archivo": "data/raw/boards/lever__findigs.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/findigs?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:36+00:00",
+  "http": 200,
+  "bytes": 52569,
+  "sha256": "c9b0de04e9eaf3022775ce7700eff92a0d5849733bcdf268c78129efb9cf09b6"
+ },
+ {
+  "archivo": "data/raw/boards/lever__finn.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/finn?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:38+00:00",
+  "http": 200,
+  "bytes": 386677,
+  "sha256": "e0ef7d3ac57e78d8d31e1ec74621365e10889df928c8bb716f72e360310af8d1"
+ },
+ {
+  "archivo": "data/raw/boards/lever__gausslabs.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/gausslabs?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:41+00:00",
+  "http": 200,
+  "bytes": 74680,
+  "sha256": "ab592c5a1434de27946a9ce5836872084b3400298c765c2bbe5d54947f01e50e"
+ },
+ {
+  "archivo": "data/raw/boards/lever__getduranta.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/getduranta?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:42+00:00",
+  "http": 200,
+  "bytes": 36572,
+  "sha256": "f85a186174fd83e7fe98f439b79a17025f38c7eea691448856967dd24f406c76"
+ },
+ {
+  "archivo": "data/raw/boards/lever__glass-health-inc.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/glass-health-inc?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:45+00:00",
+  "http": 200,
+  "bytes": 48702,
+  "sha256": "7fcccf82016ecc26296718358c67986eb2ee785ed6ccd20dd33947d0e196c681"
+ },
+ {
+  "archivo": "data/raw/boards/lever__heard.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/heard?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:47+00:00",
+  "http": 200,
+  "bytes": 2,
+  "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+ },
+ {
+  "archivo": "data/raw/boards/lever__isee.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/isee?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:50+00:00",
+  "http": 200,
+  "bytes": 225135,
+  "sha256": "3973c0415a977283337f66c7dbfe60670e5f265ecea35bcb85440f38a9f1948a"
+ },
+ {
+  "archivo": "data/raw/boards/lever__istaridigital.ai.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/istaridigital.ai?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:51+00:00",
+  "http": 200,
+  "bytes": 88259,
+  "sha256": "340b6d7febae2a7fe5f3a2bd842cc217e037695c99b03c8c270612acabd13f66"
+ },
+ {
+  "archivo": "data/raw/boards/lever__justwatch.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/justwatch?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:55+00:00",
+  "http": 200,
+  "bytes": 140150,
+  "sha256": "9a2d7efaff49df671ed304bf100484e0da168f80a302e87710d2fb3cb2f15e49"
+ },
+ {
+  "archivo": "data/raw/boards/lever__kraken123.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/kraken123?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:47:58+00:00",
+  "http": 200,
+  "bytes": 2,
+  "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+ },
+ {
+  "archivo": "data/raw/boards/lever__loftorbital.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/loftorbital?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:48:00+00:00",
+  "http": 200,
+  "bytes": 972944,
+  "sha256": "39fd3a3b68045716b2d619a1c5b0e3d371ce75dc31cf8498eba3417bbd2ce071"
+ },
+ {
+  "archivo": "data/raw/boards/lever__mcgovern.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/mcgovern?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:48:04+00:00",
+  "http": 200,
+  "bytes": 30528,
+  "sha256": "80c51d36f71c95246b5ac597440c713fd2484943f2285441997321107ac69f20"
+ },
+ {
+  "archivo": "data/raw/boards/lever__meili.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/meili?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:48:05+00:00",
+  "http": 200,
+  "bytes": 8282,
+  "sha256": "152cf43ccbdb7ab70bb5d92bc27bb0083a2aad8c895cf885f0076415819e4dc7"
+ },
+ {
+  "archivo": "data/raw/boards/lever__metabase.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/metabase?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:48:07+00:00",
+  "http": 200,
+  "bytes": 240709,
+  "sha256": "195ea664396d56b7ccd699e321b36a5f88a41a0bd2c45a05efc6caa1e56b0252"
+ },
+ {
+  "archivo": "data/raw/boards/lever__moonsong-labs.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/moonsong-labs?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:48:08+00:00",
+  "http": 200,
+  "bytes": 2,
+  "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+ },
+ {
+  "archivo": "data/raw/boards/lever__olo.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/olo?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:48:29+00:00",
+  "http": 200,
+  "bytes": 144690,
+  "sha256": "43e3ad319ac995fde1eb2547fb27c49468f228ee1f3e2975045652fe5d9827e7"
+ },
+ {
+  "archivo": "data/raw/boards/lever__picklerobot.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/picklerobot?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:48:35+00:00",
+  "http": 200,
+  "bytes": 83506,
+  "sha256": "fac6f75ec00514323b106f166d5e72dd5c8c88911a2eddc87826f7c5f30a4cc1"
+ },
+ {
+  "archivo": "data/raw/boards/lever__prelim.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/prelim?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:48:40+00:00",
+  "http": 200,
+  "bytes": 2,
+  "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+ },
+ {
+  "archivo": "data/raw/boards/lever__project-healthy-minds.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/project-healthy-minds?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:48:42+00:00",
+  "http": 200,
+  "bytes": 242778,
+  "sha256": "aee22f6af7f5efc95d11f8c61dd54ac96679a8236d58f82b4e09fdc0200f72e8"
+ },
+ {
+  "archivo": "data/raw/boards/lever__prolific-machines.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/prolific-machines?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:48:43+00:00",
+  "http": 200,
+  "bytes": 107218,
+  "sha256": "5b48140cc2586c894cd507106e88e55516553091faca0988f1840f0fd58b48df"
+ },
+ {
+  "archivo": "data/raw/boards/lever__proof.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/proof?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:48:45+00:00",
+  "http": 200,
+  "bytes": 58189,
+  "sha256": "da36cbd5348184838085d8284a656c1845677d8e067edd6c6603bf86e3a6335f"
+ },
+ {
+  "archivo": "data/raw/boards/lever__rai.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/rai?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:48:48+00:00",
+  "http": 200,
+  "bytes": 38469,
+  "sha256": "ae6abb0278e6e1e576f3aa06179c27a8ee3819344b1e7ea7bf4c9e54d05f6fc1"
+ },
+ {
+  "archivo": "data/raw/boards/lever__resilinc.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/resilinc?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:48:50+00:00",
+  "http": 200,
+  "bytes": 165506,
+  "sha256": "e52356aa7451ea58f22a34b18d7fe9acefbd2116fad9b0c813c0485262d0dc2e"
+ },
+ {
+  "archivo": "data/raw/boards/lever__ridezum.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/ridezum?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:48:53+00:00",
+  "http": 200,
+  "bytes": 685699,
+  "sha256": "65a4d74fad3bb9a499c8ab45abb4be101cbfc62181342690551af80675d49fc0"
+ },
+ {
+  "archivo": "data/raw/boards/lever__ro.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/ro?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:48:57+00:00",
+  "http": 200,
+  "bytes": 835125,
+  "sha256": "b1da526a41fd0caf29f794cd80368ca0945cff1fe059151c650b627f15248bd2"
+ },
+ {
+  "archivo": "data/raw/boards/lever__shakudo.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/shakudo?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:49:03+00:00",
+  "http": 200,
+  "bytes": 178370,
+  "sha256": "ce977039a8b28a1f20eb08a211d1983db17abd4eb4bdabdc1802415583ebae6e"
+ },
+ {
+  "archivo": "data/raw/boards/lever__shieldai.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/shieldai?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:49:07+00:00",
+  "http": 200,
+  "bytes": 10799595,
+  "sha256": "3a3cca89022222ea1b3a00bd0b4a3930f31ec5c03f7398321ba1fe67e99d9b20"
+ },
+ {
+  "archivo": "data/raw/boards/lever__skysafe.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/skysafe?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:49:09+00:00",
+  "http": 200,
+  "bytes": 2,
+  "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+ },
+ {
+  "archivo": "data/raw/boards/lever__skyways.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/skyways?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:49:10+00:00",
+  "http": 200,
+  "bytes": 240042,
+  "sha256": "b9acf74216700657bac420147451325f123649e7e6364a5712d5e2b3eb19567c"
+ },
+ {
+  "archivo": "data/raw/boards/lever__sprypointservices.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/sprypointservices?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:49:13+00:00",
+  "http": 200,
+  "bytes": 99824,
+  "sha256": "49e2607294db735c647ffcafd0ae1e22e77c63f7efe9fde2bfc53819f4683abd"
+ },
+ {
+  "archivo": "data/raw/boards/lever__straighterline.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/straighterline?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:49:15+00:00",
+  "http": 200,
+  "bytes": 2,
+  "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+ },
+ {
+  "archivo": "data/raw/boards/lever__tecton.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/tecton?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:49:17+00:00",
+  "http": 200,
+  "bytes": 2,
+  "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+ },
+ {
+  "archivo": "data/raw/boards/lever__thalolabs.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/thalolabs?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:49:19+00:00",
+  "http": 200,
+  "bytes": 20577,
+  "sha256": "ac4cf8c9793439fee3fbbdb422e0fac64eb9b3856f0d0e190bf13c579e0dd5ee"
+ },
+ {
+  "archivo": "data/raw/boards/lever__trunkio.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/trunkio?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:49:21+00:00",
+  "http": 200,
+  "bytes": 2,
+  "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+ },
+ {
+  "archivo": "data/raw/boards/lever__zoox.json",
+  "fuente": "lever",
+  "url": "https://api.lever.co/v0/postings/zoox?mode=json",
+  "fecha_captura_utc": "2026-11-06T18:49:26+00:00",
+  "http": 200,
+  "bytes": 2447150,
+  "sha256": "0bde84d15d6f756bf256ddb16a095185b4f68328f22e2e92aebaf612f7ebcbcf"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__7gen.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/7gen",
+  "fecha_captura_utc": "2026-11-06T18:49:27+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__9-mothers.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/9-mothers",
+  "fecha_captura_utc": "2026-11-06T18:49:28+00:00",
+  "http": 200,
+  "bytes": 163485,
+  "sha256": "93908d9d2319df02322e892d3becbea6a238134ceb660689ee511ff8d60cc63d"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__adaptive.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/adaptive",
+  "fecha_captura_utc": "2026-11-06T18:49:29+00:00",
+  "http": 200,
+  "bytes": 110518,
+  "sha256": "2cbd7da4158f1ead11ad0b1c1080ab4904383c12faff00cb3eb30fc08683fdf5"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__airgoods.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/airgoods",
+  "fecha_captura_utc": "2026-11-06T18:49:31+00:00",
+  "http": 200,
+  "bytes": 43353,
+  "sha256": "2390fdcdb1b81e7c1cd9aed3b74ee9ab07e0369020acc9636a4a36d3c09a0391"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__airops.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/airops",
+  "fecha_captura_utc": "2026-11-06T18:49:32+00:00",
+  "http": 200,
+  "bytes": 189569,
+  "sha256": "a855dcfcdb7246472c17d8e8a0f36ed21f8d2c6ce3249405df31a2372f32a3ac"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__aiuc.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/aiuc",
+  "fecha_captura_utc": "2026-11-06T18:49:33+00:00",
+  "http": 200,
+  "bytes": 190091,
+  "sha256": "34efedeb4f78ba9f58d8bab50b609a70dbd6f4aaff6173c8c2b4d846e70747db"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__akur8.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/akur8",
+  "fecha_captura_utc": "2026-11-06T18:49:34+00:00",
+  "http": 200,
+  "bytes": 259064,
+  "sha256": "d259f0f21d85e3d2acfa87cd18810dbd516dd3ec8895f6ebad46dea60f56c613"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__alembic.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/alembic",
+  "fecha_captura_utc": "2026-11-06T18:49:35+00:00",
+  "http": 200,
+  "bytes": 152115,
+  "sha256": "72a74dfcb3ac8c96d5d81ceb7edcdef492ee7ccba965168c0fd8f754128d7bfc"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__allspice.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/allspice",
+  "fecha_captura_utc": "2026-11-06T18:49:37+00:00",
+  "http": 200,
+  "bytes": 86711,
+  "sha256": "b692ed15f6bcb7823f5953f97b8ac5e475ab7e7e31852aaf15634819f515a669"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__ameba.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/ameba",
+  "fecha_captura_utc": "2026-11-06T18:49:38+00:00",
+  "http": 200,
+  "bytes": 10058,
+  "sha256": "04bfeef4f131e68b92c9460fd5161745abda88a92bddafcc2a1ddb42ffd754f1"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__amo.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/amo",
+  "fecha_captura_utc": "2026-11-06T18:49:39+00:00",
+  "http": 200,
+  "bytes": 345160,
+  "sha256": "b698daa1580f91e436ab90473aac9cf6731b8c6d7a7db908c8a585901dcbc8cb"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__amperos.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/amperos",
+  "fecha_captura_utc": "2026-11-06T18:49:40+00:00",
+  "http": 200,
+  "bytes": 182111,
+  "sha256": "c0dd77e89aad9dd68865162547dbfa182d821f93274b524fa5f114796ca96301"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__anima.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/anima",
+  "fecha_captura_utc": "2026-11-06T18:49:41+00:00",
+  "http": 200,
+  "bytes": 102985,
+  "sha256": "6626b1d704e330450f3d625e1f30f3a2d74045ac6d69f8a01eb96117b90a36d2"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__anterior.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/anterior",
+  "fecha_captura_utc": "2026-11-06T18:49:42+00:00",
+  "http": 200,
+  "bytes": 70221,
+  "sha256": "c2fb2a645bed3a8bb71d3fea8477d4483964c1791373af6251547098c8daac89"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__antithesis.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/antithesis",
+  "fecha_captura_utc": "2026-11-06T18:49:44+00:00",
+  "http": 200,
+  "bytes": 201121,
+  "sha256": "22ed23fb79b837b2cd2843cd06bfa74b83a32155bfa9b752d2563f8217b09ac9"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__aptura.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/aptura",
+  "fecha_captura_utc": "2026-11-06T18:49:45+00:00",
+  "http": 200,
+  "bytes": 257786,
+  "sha256": "650297c1688efa13ffa96cba31c8692c45d05085cb7b8bb10a51bb8ccdb71d21"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__artificialanalysis.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/artificialanalysis",
+  "fecha_captura_utc": "2026-11-06T18:49:46+00:00",
+  "http": 200,
+  "bytes": 244174,
+  "sha256": "33ea8ec958ae008f4fb8da8fde8d701132ac0d2fdcaf17e637d747753a0bfd19"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__astronomer.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/astronomer",
+  "fecha_captura_utc": "2026-11-06T18:49:47+00:00",
+  "http": 200,
+  "bytes": 212714,
+  "sha256": "41d87a63c784482bf67ab3be2d4a123891122834b2363a5bce519d86242bcbef"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__ataraxis-ai.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/ataraxis-ai",
+  "fecha_captura_utc": "2026-11-06T18:49:48+00:00",
+  "http": 200,
+  "bytes": 123800,
+  "sha256": "30d6743d2aa1040fcd38bf8e52423e9040401e5c0678de5eb391c13d0ba23c67"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__atomic-financial.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/atomic-financial",
+  "fecha_captura_utc": "2026-11-06T18:49:50+00:00",
+  "http": 200,
+  "bytes": 23450,
+  "sha256": "085a6e93242232813ab3df2726b88fc81eb45d3f227c4cdb26d695e875be0679"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__august-health.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/august-health",
+  "fecha_captura_utc": "2026-11-06T18:49:52+00:00",
+  "http": 200,
+  "bytes": 75604,
+  "sha256": "006e6a7121413f15e707236f46617c71d572917669067252ee6f6e8d417a2187"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__aureliussystems.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/aureliussystems",
+  "fecha_captura_utc": "2026-11-06T18:49:53+00:00",
+  "http": 200,
+  "bytes": 163826,
+  "sha256": "fe850f969dac07a30152fec6986e980732310f261103f6de20d189f8297c296b"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__authorium.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/authorium",
+  "fecha_captura_utc": "2026-11-06T18:49:54+00:00",
+  "http": 200,
+  "bytes": 64788,
+  "sha256": "c1096d37cca5fe2acd0b61f4dab4e1c0817a244017ee7354f442edc171f76183"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__axle-careers.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/axle-careers",
+  "fecha_captura_utc": "2026-11-06T18:49:55+00:00",
+  "http": 200,
+  "bytes": 159290,
+  "sha256": "92d81a0f15ea436829f7492a57c6975163b8b54fc58d048d84b402b1d34fb4ce"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__backmarket.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/backmarket",
+  "fecha_captura_utc": "2026-11-06T18:49:57+00:00",
+  "http": 200,
+  "bytes": 482125,
+  "sha256": "c5773786ed5a50f717828a4fcca0cd662289886ab3be91235e3d878f35f19577"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__baseten.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/baseten",
+  "fecha_captura_utc": "2026-11-06T18:49:58+00:00",
+  "http": 200,
+  "bytes": 1341390,
+  "sha256": "296afd459e3ef796331d0393c6246cf910e9e039d9b9c5ab32e5c6adf6940107"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__bliro.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/bliro",
+  "fecha_captura_utc": "2026-11-06T18:50:01+00:00",
+  "http": 200,
+  "bytes": 67634,
+  "sha256": "74c0a991e26f5a3e6fc2c8cd9103db157ad97db05cee686cd73a417df62330f4"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__blueberrypediatrics.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/blueberrypediatrics",
+  "fecha_captura_utc": "2026-11-06T18:50:03+00:00",
+  "http": 200,
+  "bytes": 146594,
+  "sha256": "0ed23818f41ce86c5864480f96ff9a9b187d275ac503a3b2653a097e7b370bbd"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__boon.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/boon",
+  "fecha_captura_utc": "2026-11-06T18:50:04+00:00",
+  "http": 200,
+  "bytes": 66090,
+  "sha256": "9b1d25c8ec5cac0383a744f4d67cbb92aa6c9983f10d48cb8df750cd1ac29191"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__cambly.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/cambly",
+  "fecha_captura_utc": "2026-11-06T18:50:05+00:00",
+  "http": 200,
+  "bytes": 77963,
+  "sha256": "24df5077dbdb432e6df252b741074f016b71c552be40cff6ce2a3136e562f46f"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__cantina.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/cantina",
+  "fecha_captura_utc": "2026-11-06T18:50:06+00:00",
+  "http": 200,
+  "bytes": 249726,
+  "sha256": "3070a20dd0085f185a4f252929c14f4f12a9da825ff5fc7b10ab286618674307"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__cargado.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/cargado",
+  "fecha_captura_utc": "2026-11-06T18:50:07+00:00",
+  "http": 200,
+  "bytes": 2869,
+  "sha256": "5e85bc9404402d4fb106c809d51b9dd9f96dc9d66529bafc1f4bedab7094eb79"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__category-labs.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/category-labs",
+  "fecha_captura_utc": "2026-11-06T18:50:08+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__charge-robotics.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/charge-robotics",
+  "fecha_captura_utc": "2026-11-06T18:50:11+00:00",
+  "http": 200,
+  "bytes": 141503,
+  "sha256": "582082c58103d6a406be5fec826d819f91704f002a75e1b217b85026cd226aab"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__chariotclaims.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/chariotclaims",
+  "fecha_captura_utc": "2026-11-06T18:50:12+00:00",
+  "http": 200,
+  "bytes": 95198,
+  "sha256": "2dbe54d63c8f0f5e858a0f761516ab4554e3a9da37a9e8df2e76b8009a8d3511"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__checkly.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/checkly",
+  "fecha_captura_utc": "2026-11-06T18:50:13+00:00",
+  "http": 200,
+  "bytes": 36375,
+  "sha256": "83db2a92cd798c8d2f11b1068e72a18135e9dc0df145b0aaf9d7b8c21c514b3e"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__chestnut.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/chestnut",
+  "fecha_captura_utc": "2026-11-06T18:50:14+00:00",
+  "http": 200,
+  "bytes": 38816,
+  "sha256": "ec4c6719a45b7c4ca5914a812c70e5800ca331f304618f47ac0114692e3c0485"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__civic%20roundtable.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/civic%20roundtable",
+  "fecha_captura_utc": "2026-11-06T18:50:17+00:00",
+  "http": 200,
+  "bytes": 49182,
+  "sha256": "aec28bfdc294c7c866ec8c60c1bef504cc35e656e30eecffaf5dda42200b7ab3"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__clarium.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/clarium",
+  "fecha_captura_utc": "2026-11-06T18:50:18+00:00",
+  "http": 200,
+  "bytes": 94248,
+  "sha256": "c432a6a4ea9bf1c326c050ce1987c63037ff0113285b4bea6f35b801223e5c0a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__cleric.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/cleric",
+  "fecha_captura_utc": "2026-11-06T18:50:19+00:00",
+  "http": 200,
+  "bytes": 12118,
+  "sha256": "e24b90ad0e6a6ac30756de6f37b9d7d966d38ef402da50fae91edf5daf80219e"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__clickhouse.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/clickhouse",
+  "fecha_captura_utc": "2026-11-06T18:50:20+00:00",
+  "http": 200,
+  "bytes": 2540513,
+  "sha256": "de94550afb2894a539c3f5f5979055b2705ee38399a21263570d8340d569a23b"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__close.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/close",
+  "fecha_captura_utc": "2026-11-06T18:50:21+00:00",
+  "http": 200,
+  "bytes": 132389,
+  "sha256": "d70be5b3da5d4395488fe4a532b82c125a4aec184f24782959f0c55696f99642"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__coder.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/coder",
+  "fecha_captura_utc": "2026-11-06T18:50:24+00:00",
+  "http": 200,
+  "bytes": 394891,
+  "sha256": "2040fe26fcd80fea83c457faf40426e616f3aa5248367f9069cc824026db9987"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__colonist.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/colonist",
+  "fecha_captura_utc": "2026-11-06T18:50:25+00:00",
+  "http": 200,
+  "bytes": 42416,
+  "sha256": "0c0d5f11a79c7bf79b4cda63cbcf7c33f15ebb58a6ffe0e55ca7673e4f822ddf"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__comity.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/comity",
+  "fecha_captura_utc": "2026-11-06T18:50:26+00:00",
+  "http": 200,
+  "bytes": 30179,
+  "sha256": "d4fc1773fed1d01391fb54ab65474619e344f989bbcad74bbc1df765e2f726cd"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__compa.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/compa",
+  "fecha_captura_utc": "2026-11-06T18:50:27+00:00",
+  "http": 200,
+  "bytes": 76916,
+  "sha256": "bab5f6e57414483b3d54fecdde3dbca347e82327af19cac588355eebc34691a0"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__complement.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/complement",
+  "fecha_captura_utc": "2026-11-06T18:50:29+00:00",
+  "http": 200,
+  "bytes": 4306,
+  "sha256": "bf3020fa8d1488e3d08fd44582450fc050bacc2ebf40e48634de90809aafb91f"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__confido.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/confido",
+  "fecha_captura_utc": "2026-11-06T18:50:32+00:00",
+  "http": 200,
+  "bytes": 459183,
+  "sha256": "5f4404a18dc1c7793f2c7a8d53362bf2547334458ae9738b8b54b1acd54475b7"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__coram-ai.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/coram-ai",
+  "fecha_captura_utc": "2026-11-06T18:50:35+00:00",
+  "http": 200,
+  "bytes": 538551,
+  "sha256": "03f859ac2b1caf9f00bc1c58a1eb8ae5ec31b4ee2ccd71c8b6a9dc970cd84e93"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__counsel.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/counsel",
+  "fecha_captura_utc": "2026-11-06T18:50:38+00:00",
+  "http": 200,
+  "bytes": 190844,
+  "sha256": "52cef466b363e83d04ccc92ccfc9c52e2232513b549cfef006770872e2e89ffa"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__cradlebio.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/cradlebio",
+  "fecha_captura_utc": "2026-11-06T18:50:40+00:00",
+  "http": 200,
+  "bytes": 78279,
+  "sha256": "f11149bf074b68c686f61f1bfb3f4d974ecacbf02e9a76c1dde885c86acc130b"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__creditgenie.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/creditgenie",
+  "fecha_captura_utc": "2026-11-06T18:50:41+00:00",
+  "http": 200,
+  "bytes": 239974,
+  "sha256": "5e119aa945e1cd3f3e334899c8e93106b66df2fc41245f3627bda838075f494b"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__crusoe.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/crusoe",
+  "fecha_captura_utc": "2026-11-06T18:50:43+00:00",
+  "http": 200,
+  "bytes": 5483372,
+  "sha256": "906672a1b5480224a5e06efbb65f19e660d430c937ec60141e0d206cb8822129"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__cruxclimate.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/cruxclimate",
+  "fecha_captura_utc": "2026-11-06T18:50:44+00:00",
+  "http": 200,
+  "bytes": 452631,
+  "sha256": "83bf401e5c0ee9167f13f1bb9dfe6e0a0236a221f099438fc377481b48868845"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__deepl.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/deepl",
+  "fecha_captura_utc": "2026-11-06T18:50:46+00:00",
+  "http": 200,
+  "bytes": 172974,
+  "sha256": "7c6647c5a1b9aaf8ff6e845d5f60a4c8ae13b0bb4f335e4dd662b151a8a6d5da"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__deepsetai.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/deepsetai",
+  "fecha_captura_utc": "2026-11-06T18:50:47+00:00",
+  "http": 200,
+  "bytes": 45362,
+  "sha256": "34f2c3c737abb3ceafd66620f6024164625ebc60bf72c1c8aabd9871d9f7e6b8"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__deeter-analytics.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/deeter-analytics",
+  "fecha_captura_utc": "2026-11-06T18:50:48+00:00",
+  "http": 200,
+  "bytes": 46534,
+  "sha256": "d6bc371ea1772933bbc77eea86c94456871591a3af51ec5b043b3e25dba39c19"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__diagrid.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/diagrid",
+  "fecha_captura_utc": "2026-11-06T18:50:50+00:00",
+  "http": 200,
+  "bytes": 104336,
+  "sha256": "aa27aa6cab9f5b3a4d2cd925c0c5124ef40537264b933c512ab8415be1cc05d0"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__dialogueai.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/dialogueai",
+  "fecha_captura_utc": "2026-11-06T18:50:51+00:00",
+  "http": 200,
+  "bytes": 24342,
+  "sha256": "186383b31b08a28f532bd431b4f82d17e3fd839ef7656d0f6e12e8464c891a82"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__dimensional.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/dimensional",
+  "fecha_captura_utc": "2026-11-06T18:50:52+00:00",
+  "http": 200,
+  "bytes": 129898,
+  "sha256": "7610051679c35f4557f604480023fe488b625f48ddf82328f380c373c0224e16"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__distyl.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/distyl",
+  "fecha_captura_utc": "2026-11-06T18:50:53+00:00",
+  "http": 200,
+  "bytes": 362110,
+  "sha256": "d2eb9d392e7f94238c5f4254ed847873b0927e56746ca7b1375a7e5fe02a40d5"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__ditto.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/ditto",
+  "fecha_captura_utc": "2026-11-06T18:50:54+00:00",
+  "http": 200,
+  "bytes": 95265,
+  "sha256": "a12b577e3134dd97e571c31e5a6787576756db353141c3154d0b4d9196e3f44e"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__dryft.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/dryft",
+  "fecha_captura_utc": "2026-11-06T18:50:55+00:00",
+  "http": 200,
+  "bytes": 108898,
+  "sha256": "b5ceb67741f27f746a08e683b30ebef15d23d975ccbcbe45127077273d1c02c7"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__duck-duck-go.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/duck-duck-go",
+  "fecha_captura_utc": "2026-11-06T18:50:57+00:00",
+  "http": 200,
+  "bytes": 219630,
+  "sha256": "637cc7b802187592940e11114e583f0f15a70fcd45743185a9c7bba889495709"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__dune.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/dune",
+  "fecha_captura_utc": "2026-11-06T18:50:58+00:00",
+  "http": 200,
+  "bytes": 69743,
+  "sha256": "b7667f8ed1b890fcaf7211bf5c0b8cbc46d35a18ba26d23ecdbdb605f5e28668"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__eagle.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/eagle",
+  "fecha_captura_utc": "2026-11-06T18:50:59+00:00",
+  "http": 200,
+  "bytes": 42812,
+  "sha256": "2ab0240d68353c17a3f2bb1a1ca50a9777ceb27f25dc3f2c68ee771d183533f9"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__edlink.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/edlink",
+  "fecha_captura_utc": "2026-11-06T18:51:00+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__eightsleep.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/eightsleep",
+  "fecha_captura_utc": "2026-11-06T18:51:01+00:00",
+  "http": 200,
+  "bytes": 538565,
+  "sha256": "564d663a391832cec9ed58bb1ed03fc0501e039802e02728baa3089fa3b28567"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__eliseai.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/eliseai",
+  "fecha_captura_utc": "2026-11-06T18:51:03+00:00",
+  "http": 200,
+  "bytes": 2053671,
+  "sha256": "89d8dda9d4fe89a26173bb2bbebe98d389182585b4d516eaaf9c9080f791b73c"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__equall.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/equall",
+  "fecha_captura_utc": "2026-11-06T18:51:05+00:00",
+  "http": 200,
+  "bytes": 25387,
+  "sha256": "cf4e88fc728c2eb9c8d1f3b0926f8973b6df8a444872e328e745fda449c69360"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__ether.fi.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/ether.fi",
+  "fecha_captura_utc": "2026-11-06T18:51:07+00:00",
+  "http": 200,
+  "bytes": 140307,
+  "sha256": "377a640078406e979330480c6a5f65db6210143d56d04408e4c8409786c4a9c1"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__everis.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/everis",
+  "fecha_captura_utc": "2026-11-06T18:51:08+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__evervault.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/evervault",
+  "fecha_captura_utc": "2026-11-06T18:51:10+00:00",
+  "http": 200,
+  "bytes": 60350,
+  "sha256": "3b0dd0d17f020c55d16a8884f08f6911dff84f337260d5390f53e81c05cf5dd2"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__extend.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/extend",
+  "fecha_captura_utc": "2026-11-06T18:51:11+00:00",
+  "http": 200,
+  "bytes": 59449,
+  "sha256": "1ea76530a6edaee76dadaaeea828af019b5e1bbfa0609cd6a1a80303792dfee5"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__fanvue.com.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/fanvue.com",
+  "fecha_captura_utc": "2026-11-06T18:51:12+00:00",
+  "http": 200,
+  "bytes": 136111,
+  "sha256": "3c441b09fab7f0152b8f7ec773d84f30090b522af56d29e3b01405e1626c2012"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__fathom.video.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/fathom.video",
+  "fecha_captura_utc": "2026-11-06T18:51:13+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__feldera.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/feldera",
+  "fecha_captura_utc": "2026-11-06T18:51:14+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__felix.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/felix",
+  "fecha_captura_utc": "2026-11-06T18:51:15+00:00",
+  "http": 200,
+  "bytes": 450165,
+  "sha256": "24da6b1f704087c438f2562a6e02d4eaf565b45a1893ee7a38748f8491a828d1"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__flaglerhealth.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/flaglerhealth",
+  "fecha_captura_utc": "2026-11-06T18:51:18+00:00",
+  "http": 200,
+  "bytes": 242580,
+  "sha256": "4309986e3c2cc0936a17799d1c022dd205a069f193b98a6cd8fa3e781ea8515f"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__fleetworks.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/fleetworks",
+  "fecha_captura_utc": "2026-11-06T18:51:19+00:00",
+  "http": 200,
+  "bytes": 45813,
+  "sha256": "d6be43fa663c7cc15876420d92dd57e365f2b52ad95e4f4b4824611423152522"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__fluidstack.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/fluidstack",
+  "fecha_captura_utc": "2026-11-06T18:51:20+00:00",
+  "http": 200,
+  "bytes": 3720243,
+  "sha256": "718af128edfee8b470eb8ff45a4d1ec8ee56a3c9116aee4b970f27e030a33459"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__flux.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/flux",
+  "fecha_captura_utc": "2026-11-06T18:51:21+00:00",
+  "http": 200,
+  "bytes": 94888,
+  "sha256": "bc0e632a7fc9fa01f5e2d39c43b5731e2a6fb0b6957ff8fd034eaa46f5fc9d7c"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__footprint.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/footprint",
+  "fecha_captura_utc": "2026-11-06T18:51:23+00:00",
+  "http": 200,
+  "bytes": 220798,
+  "sha256": "1c8be18469794df1d0b90de0d2f30294f48fa75873a02bf2c83702bbca7f193a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__forus.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/forus",
+  "fecha_captura_utc": "2026-11-06T18:51:24+00:00",
+  "http": 200,
+  "bytes": 900546,
+  "sha256": "da1bb5490bdbb96fb3016e4e581a613a25d14b0692f1821c932e960156a255ee"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__frontcareers.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/frontcareers",
+  "fecha_captura_utc": "2026-11-06T18:51:26+00:00",
+  "http": 200,
+  "bytes": 39408,
+  "sha256": "736e2301b5120d6186b55f317e5ca6951de5942673ead38d957723ac634379de"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__g2i.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/g2i",
+  "fecha_captura_utc": "2026-11-06T18:51:29+00:00",
+  "http": 200,
+  "bytes": 336769,
+  "sha256": "b69d30f338ae8873665d667633b65cf3daa7dd74b2dca498ae087d6f666733b9"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__gigaml.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/gigaml",
+  "fecha_captura_utc": "2026-11-06T18:51:30+00:00",
+  "http": 200,
+  "bytes": 403662,
+  "sha256": "785cda0c932805267e740d6f23fcb627413b761f6c980a7523f65a12c21b1708"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__govsignals.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/govsignals",
+  "fecha_captura_utc": "2026-11-06T18:51:31+00:00",
+  "http": 200,
+  "bytes": 98174,
+  "sha256": "76d1c0594ebc0879619a0d07d1190ea39f7b677b2667f6a46882abdd4190dca4"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__graymatter-robotics.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/graymatter-robotics",
+  "fecha_captura_utc": "2026-11-06T18:51:32+00:00",
+  "http": 200,
+  "bytes": 210166,
+  "sha256": "914f829ada6c2f49f266c2020f49a2a22d90748f8eebd9a87e546a3f137df374"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__greatquestion.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/greatquestion",
+  "fecha_captura_utc": "2026-11-06T18:51:33+00:00",
+  "http": 200,
+  "bytes": 106358,
+  "sha256": "ca8133953a056a7dcba07ee6a520ef9d33c0449fcaf496cd195981fd6b1ff811"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__griffin.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/griffin",
+  "fecha_captura_utc": "2026-11-06T18:51:34+00:00",
+  "http": 200,
+  "bytes": 143036,
+  "sha256": "516be61123fa71e798cd5e837018dfe8f854a32f125cf0ebcd851c8f1404606e"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__growfig.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/growfig",
+  "fecha_captura_utc": "2026-11-06T18:51:36+00:00",
+  "http": 200,
+  "bytes": 7380,
+  "sha256": "bee14cbc27e3c165e1d6697e802814799870ed27e3f7049b036cf42b73722f54"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__higharc.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/higharc",
+  "fecha_captura_utc": "2026-11-06T18:51:39+00:00",
+  "http": 200,
+  "bytes": 149345,
+  "sha256": "d3fe96cf5ab8728ea96cbdc566ec273647ea9a0b2d05ba500cbad1977ffb564a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__hike-medical.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/hike-medical",
+  "fecha_captura_utc": "2026-11-06T18:51:40+00:00",
+  "http": 200,
+  "bytes": 142184,
+  "sha256": "05f5b44fa45d3f1cacc9f176613f6759911a7d42c6b9fc2166623e0c33c9e4fb"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__hive.co.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/hive.co",
+  "fecha_captura_utc": "2026-11-06T18:51:41+00:00",
+  "http": 200,
+  "bytes": 17942,
+  "sha256": "0f9d3218b956f6df0879bfb095a757be703a5efdef73a30e765f9ed9e453dbed"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__hiya.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/hiya",
+  "fecha_captura_utc": "2026-11-06T18:51:43+00:00",
+  "http": 200,
+  "bytes": 437165,
+  "sha256": "47d627dec951dc8c3f7b00af627287f8faff1e5814e34ccaf6a3054bf0249f1c"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__homevision.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/homevision",
+  "fecha_captura_utc": "2026-11-06T18:51:44+00:00",
+  "http": 200,
+  "bytes": 57725,
+  "sha256": "0bbb96152d112b3b3f5773ec9c26bed7e2f2225dc1c76e07353bd3909618fc23"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__honey%20homes.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/honey%20homes",
+  "fecha_captura_utc": "2026-11-06T18:51:45+00:00",
+  "http": 200,
+  "bytes": 228154,
+  "sha256": "e692547f9429de594525f686387599f58a42f5282bf629ff77708da1fa119260"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__humaans.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/humaans",
+  "fecha_captura_utc": "2026-11-06T18:51:46+00:00",
+  "http": 200,
+  "bytes": 236619,
+  "sha256": "16ff165bd5e6f3444f2c742c3416f869bf6120e114afeeb3127df9b859466fb9"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__iceye.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/iceye",
+  "fecha_captura_utc": "2026-11-06T18:51:49+00:00",
+  "http": 200,
+  "bytes": 3561780,
+  "sha256": "68b325ca8b262f4363334d908517c7975b3cf51c6333f0985dd60ed13d4c8436"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__imprint.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/imprint",
+  "fecha_captura_utc": "2026-11-06T18:51:50+00:00",
+  "http": 200,
+  "bytes": 307974,
+  "sha256": "9ba906c4f00fbb3fb7e8d404105de823841b68ff231a64fcf152b9104ab57d5e"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__inductive-bio.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/inductive-bio",
+  "fecha_captura_utc": "2026-11-06T18:51:51+00:00",
+  "http": 200,
+  "bytes": 55703,
+  "sha256": "059dd40f79e15685343b43e154d76a2bf1fe440b20fbc262b0e374b45cf4d713"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__jupus.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/jupus",
+  "fecha_captura_utc": "2026-11-06T18:51:53+00:00",
+  "http": 200,
+  "bytes": 54370,
+  "sha256": "68bcc056bbd155f5844dc9e2c6d9cfcc07404523791eccbf53ad3f687ed7d099"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__kepler-ai.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/kepler-ai",
+  "fecha_captura_utc": "2026-11-06T18:51:56+00:00",
+  "http": 200,
+  "bytes": 268743,
+  "sha256": "12ab67881dfdbaecba1299fbcd83117941ac8a51fe39c306f51d7116b8024aa0"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__kiloforge.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/kiloforge",
+  "fecha_captura_utc": "2026-11-06T18:51:58+00:00",
+  "http": 200,
+  "bytes": 6218,
+  "sha256": "c7ed492f3ce6afe3d0751de40fe716eeb5ee4262566c8c240e6f91b461f1f3b0"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__kombo.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/kombo",
+  "fecha_captura_utc": "2026-11-06T18:52:01+00:00",
+  "http": 200,
+  "bytes": 253801,
+  "sha256": "5c7b048692c22bd14b3a11bdd12a270d87b5e7c29b3e34303688278810cd749d"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__kong.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/kong",
+  "fecha_captura_utc": "2026-11-06T18:52:03+00:00",
+  "http": 200,
+  "bytes": 1115285,
+  "sha256": "75353f7940848aeef51ae522fd3cd25e91623d0a1a475a5150077540676ed3d3"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__konvu.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/konvu",
+  "fecha_captura_utc": "2026-11-06T18:52:04+00:00",
+  "http": 200,
+  "bytes": 43666,
+  "sha256": "44a0102f9d787f170f7ffdb6a015632ee29f7752b454f378d68c9434e368e6c8"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__krakentech.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/krakentech",
+  "fecha_captura_utc": "2026-11-06T18:52:05+00:00",
+  "http": 200,
+  "bytes": 1576002,
+  "sha256": "09aca31aa3c0a0d32ba0da4387c112ba9d2763f3636996a677ecd248032f43f3"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__langdock.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/langdock",
+  "fecha_captura_utc": "2026-11-06T18:52:07+00:00",
+  "http": 200,
+  "bytes": 176161,
+  "sha256": "1690a95700777782a9e33e1bff632633a92116fad37896870f3d66c01dd484e5"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__langfuse.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/langfuse",
+  "fecha_captura_utc": "2026-11-06T18:52:09+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__layerfi.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/layerfi",
+  "fecha_captura_utc": "2026-11-06T18:52:10+00:00",
+  "http": 200,
+  "bytes": 49976,
+  "sha256": "26f33e3a01bde03ab0e45e608f9d389201decfe919c4a6071c9f2f2d58c4cd41"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__legionhealth.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/legionhealth",
+  "fecha_captura_utc": "2026-11-06T18:52:11+00:00",
+  "http": 200,
+  "bytes": 3311419,
+  "sha256": "fce70faf55e4e9a245292afea04f0093224810471b42fd75bfe33a85050078ed"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__leonardo.ai.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/leonardo.ai",
+  "fecha_captura_utc": "2026-11-06T18:52:12+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__letta.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/letta",
+  "fecha_captura_utc": "2026-11-06T18:52:13+00:00",
+  "http": 200,
+  "bytes": 38130,
+  "sha256": "d6bb0d975a56b6d8279bebab2842613be0011925f0843ae2b1a0cc2db36cfae3"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__lightdash.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/lightdash",
+  "fecha_captura_utc": "2026-11-06T18:52:15+00:00",
+  "http": 200,
+  "bytes": 34117,
+  "sha256": "5fbe1a09d408583eca81e33b1cfc4e59665f7c1d712c4d5ea751ef0c30ae21ca"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__livekit.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/livekit",
+  "fecha_captura_utc": "2026-11-06T18:52:17+00:00",
+  "http": 200,
+  "bytes": 331726,
+  "sha256": "32012451f7fb8f0dfcbedf20afd9053fa9d18c06c3a23b7367f0bed93ccea3d1"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__lorikeet.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/lorikeet",
+  "fecha_captura_utc": "2026-11-06T18:52:18+00:00",
+  "http": 200,
+  "bytes": 235983,
+  "sha256": "77f74262f46e59c028f9da223d0a4885da4ef7f20fc977f82441f7019ff5b4b1"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__luxor.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/luxor",
+  "fecha_captura_utc": "2026-11-06T18:52:19+00:00",
+  "http": 200,
+  "bytes": 13377,
+  "sha256": "e0ac5e383c9475780a355570efb84f39a19919cfc364c408391e58489fdf49f3"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__maincode.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/maincode",
+  "fecha_captura_utc": "2026-11-06T18:52:21+00:00",
+  "http": 200,
+  "bytes": 80146,
+  "sha256": "988d491863059d77fa5ab89250bfa1979fd0e38f30210df06b1869105be5dbde"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__mapbox.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/mapbox",
+  "fecha_captura_utc": "2026-11-06T18:52:22+00:00",
+  "http": 200,
+  "bytes": 597177,
+  "sha256": "c75edd3ee3f87522505cffd514fce273724712ea026a75bd18569fcb36ccef89"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__mastra.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/mastra",
+  "fecha_captura_utc": "2026-11-06T18:52:23+00:00",
+  "http": 200,
+  "bytes": 26622,
+  "sha256": "8d836607478e10e95ee27e1d5d8c9878cd7c2f7adccce565a245a1c832a53e60"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__matterworks.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/matterworks",
+  "fecha_captura_utc": "2026-11-06T18:52:24+00:00",
+  "http": 200,
+  "bytes": 31373,
+  "sha256": "f69f5bdd79902dcaaac6c7d2cbad9a45cbb85e05f04ae1609f193781f0c21198"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__mechanize.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/mechanize",
+  "fecha_captura_utc": "2026-11-06T18:52:26+00:00",
+  "http": 200,
+  "bytes": 34676,
+  "sha256": "90977648215b8d747dd09fb11fca8540089bc43fad444132991338fd0f2bd4b6"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__menlo.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/menlo",
+  "fecha_captura_utc": "2026-11-06T18:52:28+00:00",
+  "http": 200,
+  "bytes": 237101,
+  "sha256": "588209e543bb4dca4048db53459f709c410f5122d53bf8dfa1115954e37001a5"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__mercor.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/mercor",
+  "fecha_captura_utc": "2026-11-06T18:52:29+00:00",
+  "http": 200,
+  "bytes": 1083172,
+  "sha256": "620d5ce07077100662f49ca0f68bf3efc00703edb7e9b187460c53202ade0f28"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__meticulous.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/meticulous",
+  "fecha_captura_utc": "2026-11-06T18:52:30+00:00",
+  "http": 200,
+  "bytes": 100627,
+  "sha256": "0d2a946b27b347fa65e566b06eb0e6b2275d2e6929a41cc8003a5b0567070c20"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__middesk.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/middesk",
+  "fecha_captura_utc": "2026-11-06T18:52:31+00:00",
+  "http": 200,
+  "bytes": 203790,
+  "sha256": "55b28fdb2f72fefc3f37d6f7a08b7a6c2739d898a82413dacc6ff250b4c2efb8"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__modal.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/modal",
+  "fecha_captura_utc": "2026-11-06T18:52:34+00:00",
+  "http": 200,
+  "bytes": 400548,
+  "sha256": "de62487f388a8e4d3c9c921ca6ee8be7bef1142d62b1610f93f2ce4ab76f21d6"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__monad.foundation.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/monad.foundation",
+  "fecha_captura_utc": "2026-11-06T18:52:35+00:00",
+  "http": 200,
+  "bytes": 62103,
+  "sha256": "1f7b94e44cf74a3cf6d63c181e15663f287c204f9325c1bacace4ab802ff9087"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__monterra.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/monterra",
+  "fecha_captura_utc": "2026-11-06T18:52:36+00:00",
+  "http": 200,
+  "bytes": 30520,
+  "sha256": "ba6508182781f9a4d67eddf9d0a9ca43200e432d271842b993ee9a7e32be39c3"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__mubit.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/mubit",
+  "fecha_captura_utc": "2026-11-06T18:52:37+00:00",
+  "http": 200,
+  "bytes": 8859,
+  "sha256": "835a1c0b0d410434dd98865fab37fd6837f981b81717116b33f87c24cef05aef"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__nango.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/nango",
+  "fecha_captura_utc": "2026-11-06T18:52:38+00:00",
+  "http": 200,
+  "bytes": 37494,
+  "sha256": "8db4bbe45f34ffe76fe2e2adcfb69045fea0a9029a1af039d0571320778ad9a2"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__nectar-social.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/nectar-social",
+  "fecha_captura_utc": "2026-11-06T18:52:40+00:00",
+  "http": 200,
+  "bytes": 257503,
+  "sha256": "4a98809d228af96a7004466875c2abc22237abbc1926c7162aaeb0311df4c040"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__neo-tax.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/neo-tax",
+  "fecha_captura_utc": "2026-11-06T18:52:41+00:00",
+  "http": 200,
+  "bytes": 97191,
+  "sha256": "d70b692b92bfab3a0ff097ee69d07bf4a5547b891ebc550fac1f452e44ec4841"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__neon.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/neon",
+  "fecha_captura_utc": "2026-11-06T18:52:42+00:00",
+  "http": 200,
+  "bytes": 12885,
+  "sha256": "c719c2562b1810ce103380c3252bdc4234dd8628acbf7fc1313f15769176fa06"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__neon-health.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/neon-health",
+  "fecha_captura_utc": "2026-11-06T18:52:43+00:00",
+  "http": 200,
+  "bytes": 76636,
+  "sha256": "684ca9c9c3b585256ff202a25c98a9fe07c60437201ee4b98bbd9469380d9b51"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__nevoya.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/nevoya",
+  "fecha_captura_utc": "2026-11-06T18:52:44+00:00",
+  "http": 200,
+  "bytes": 46636,
+  "sha256": "386d7d3abac1216e049e4f7f814955c3646ab564222103fd611952083f8580ef"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__noise-labs.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/noise-labs",
+  "fecha_captura_utc": "2026-11-06T18:52:45+00:00",
+  "http": 200,
+  "bytes": 4620,
+  "sha256": "12e29d68f00fd7559b759f1858a805e467199850a13d41707372fb808ecd263a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__norm-ai.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/norm-ai",
+  "fecha_captura_utc": "2026-11-06T18:52:47+00:00",
+  "http": 200,
+  "bytes": 356139,
+  "sha256": "92cfae3528e6f727163290c474f8c628691b2074b117a2ec9f88ac1e8f626d83"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__northwoodspace.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/northwoodspace",
+  "fecha_captura_utc": "2026-11-06T18:52:49+00:00",
+  "http": 200,
+  "bytes": 861895,
+  "sha256": "4ba074d739fa48299dc1917cf6d79af9425e7edf6ed1ca8d90c408f58a998cc0"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__notable.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/notable",
+  "fecha_captura_utc": "2026-11-06T18:52:50+00:00",
+  "http": 200,
+  "bytes": 119480,
+  "sha256": "c8894ef632cdb012bf9c763220e3d53f00a208c85b253d2668d9533d0283598b"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__odyssey.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/odyssey",
+  "fecha_captura_utc": "2026-11-06T18:52:52+00:00",
+  "http": 200,
+  "bytes": 101175,
+  "sha256": "69b2afe417d5e735c6ca91abe0030042445e49cff77184bab126e63020c9710d"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__office-hours.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/office-hours",
+  "fecha_captura_utc": "2026-11-06T18:52:54+00:00",
+  "http": 200,
+  "bytes": 193131,
+  "sha256": "c3b3400f45a932137e2b623cd93730f0724a5a4964ad08909f27b43db09a0b24"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__onecrew.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/onecrew",
+  "fecha_captura_utc": "2026-11-06T18:52:55+00:00",
+  "http": 200,
+  "bytes": 36776,
+  "sha256": "876291e4b0d3d7b2b1caee44c790f7f7cc28b6117d2b53885fb3ca7df3c821e1"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__oneleet.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/oneleet",
+  "fecha_captura_utc": "2026-11-06T18:52:56+00:00",
+  "http": 200,
+  "bytes": 269619,
+  "sha256": "641d7d5c06963c0419bb2107a902fe7556c2f030cc7e397e3156dc81d58cba45"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__onoshealth.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/onoshealth",
+  "fecha_captura_utc": "2026-11-06T18:52:57+00:00",
+  "http": 200,
+  "bytes": 128412,
+  "sha256": "a3d1786ad37e24f5d01aedadd636b1f04bec49edad3a496124cbef05e782b5d3"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__ontic.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/ontic",
+  "fecha_captura_utc": "2026-11-06T18:52:59+00:00",
+  "http": 200,
+  "bytes": 202618,
+  "sha256": "eec163e1fa9c9c825d081dd86dcb31944cf73313790add9cee13993672688110"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__opsmill.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/opsmill",
+  "fecha_captura_utc": "2026-11-06T18:53:00+00:00",
+  "http": 200,
+  "bytes": 47683,
+  "sha256": "dc8cc5d551acb9d7a9a8025e1b6dee30eddf77262b6c360512da389cb93a35d8"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__opusclip.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/opusclip",
+  "fecha_captura_utc": "2026-11-06T18:53:01+00:00",
+  "http": 200,
+  "bytes": 165980,
+  "sha256": "8f7352ccd8f4794907118b560a15bedfa071e08f3d2984533e60105381dc8925"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__oscilar.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/oscilar",
+  "fecha_captura_utc": "2026-11-06T18:53:02+00:00",
+  "http": 200,
+  "bytes": 289907,
+  "sha256": "88c7cb919f763d004b9820223bc5e40b8e05972997e12e623b3aa963c10dcaa2"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__p-1%20ai.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/p-1%20ai",
+  "fecha_captura_utc": "2026-11-06T18:53:03+00:00",
+  "http": 200,
+  "bytes": 61305,
+  "sha256": "53d39c0ecf50eaccfd80c1807a740ac0fdbebdd588fc56c73fbf3f6112240e1f"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__p2p.org.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/p2p.org",
+  "fecha_captura_utc": "2026-11-06T18:53:04+00:00",
+  "http": 200,
+  "bytes": 30287,
+  "sha256": "bd7d5a3605130c3f57bb25e027d5c0fe6e53e00451d132198796467f296ffa53"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__parabola-io.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/parabola-io",
+  "fecha_captura_utc": "2026-11-06T18:53:07+00:00",
+  "http": 200,
+  "bytes": 80246,
+  "sha256": "da82e849538e954d078d18d6730a58626ea07267fefe05ce87d5b0653536ae7d"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__parallel.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/parallel",
+  "fecha_captura_utc": "2026-11-06T18:53:08+00:00",
+  "http": 200,
+  "bytes": 259242,
+  "sha256": "7f326dd83be541f8a3d8041850728689ab316b4c5ad3a128fc7ffa2cc36e51e1"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__pareto-ai.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/pareto-ai",
+  "fecha_captura_utc": "2026-11-06T18:53:09+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__parker.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/parker",
+  "fecha_captura_utc": "2026-11-06T18:53:10+00:00",
+  "http": 200,
+  "bytes": 123965,
+  "sha256": "2fa2ddd3c04a3c9929ed4b48461fb6f2d033923497cecac7b19edd0a28047a2e"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__pear-vc.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/pear-vc",
+  "fecha_captura_utc": "2026-11-06T18:53:13+00:00",
+  "http": 200,
+  "bytes": 1089997,
+  "sha256": "7bb8a0c15cf816525b95573219ec8623b44e8eb44af42ce2a129605ff28f2e5b"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__permitflow.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/permitflow",
+  "fecha_captura_utc": "2026-11-06T18:53:14+00:00",
+  "http": 200,
+  "bytes": 506878,
+  "sha256": "b86763050d960b3476341b4edf6bc0d51a878038537eee8a8e358e4382daa08b"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__phoebe-work.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/phoebe-work",
+  "fecha_captura_utc": "2026-11-06T18:53:16+00:00",
+  "http": 200,
+  "bytes": 74279,
+  "sha256": "419d0071475b2957350968a141d7bfd21c9c008bf29e80e4d405673f4491fcdd"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__plantingspace.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/plantingspace",
+  "fecha_captura_utc": "2026-11-06T18:53:17+00:00",
+  "http": 200,
+  "bytes": 58299,
+  "sha256": "84a5ffe4512acafd90ebd4e2ce946dc63f28de0ab1f17449a45852463168952a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__pod-network.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/pod-network",
+  "fecha_captura_utc": "2026-11-06T18:53:18+00:00",
+  "http": 200,
+  "bytes": 33833,
+  "sha256": "9ca7ae0c117facbc37981cb42f25a9dc521e64d29ddeb3067b61d608afb3fd2b"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__poesis.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/poesis",
+  "fecha_captura_utc": "2026-11-06T18:53:20+00:00",
+  "http": 200,
+  "bytes": 43627,
+  "sha256": "df887a1ff65d7f0ab485f018e9b5f3b2200c8b8c3f521677e96a061d0b073e3b"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__prelude.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/prelude",
+  "fecha_captura_utc": "2026-11-06T18:53:21+00:00",
+  "http": 200,
+  "bytes": 151004,
+  "sha256": "eff76e01112e04c8b57b910e9161bcc27aa2f8453ba0f100cdb49fc8e51dff8a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__prior-labs.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/prior-labs",
+  "fecha_captura_utc": "2026-11-06T18:53:22+00:00",
+  "http": 200,
+  "bytes": 323978,
+  "sha256": "6cf86ea639f1e6be5f45f6f8b651bb4ac61584a13b286c2ea6482b9f78d4a44c"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__productgenius.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/productgenius",
+  "fecha_captura_utc": "2026-11-06T18:53:24+00:00",
+  "http": 200,
+  "bytes": 12214,
+  "sha256": "9f8c928ce1107d5d0bfdf95bfd65a88d89b3517e3a28a1df565644c5dd565ad7"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__prompt.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/prompt",
+  "fecha_captura_utc": "2026-11-06T18:53:26+00:00",
+  "http": 200,
+  "bytes": 641732,
+  "sha256": "0d62a7d8e9959faee7b830749eb66c63a1bad33c226e5c71fdbcb807eb24e4e6"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__prosper-ai.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/prosper-ai",
+  "fecha_captura_utc": "2026-11-06T18:53:27+00:00",
+  "http": 200,
+  "bytes": 144638,
+  "sha256": "c7fbe289d20ddad0633e51b32229ffacc276f3728917ac038694d8f3ca949931"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__protege.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/protege",
+  "fecha_captura_utc": "2026-11-06T18:53:28+00:00",
+  "http": 200,
+  "bytes": 300965,
+  "sha256": "0a9b27c125dbeb7d62d0d426fe1e65404e532b820bbbcceac4505c00c711444d"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__proxima-fusion.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/proxima-fusion",
+  "fecha_captura_utc": "2026-11-06T18:53:29+00:00",
+  "http": 200,
+  "bytes": 726847,
+  "sha256": "b6858e877851cf982a34adfc62fc0e356941e89bc79d6be650585f2131fab681"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__pylon.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/pylon",
+  "fecha_captura_utc": "2026-11-06T18:53:30+00:00",
+  "http": 200,
+  "bytes": 297134,
+  "sha256": "0ba2f729e218d39d8314b24a37e993c8c4e461c550cb2216281f379fa4297d26"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__quora.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/quora",
+  "fecha_captura_utc": "2026-11-06T18:53:32+00:00",
+  "http": 200,
+  "bytes": 140735,
+  "sha256": "ffe0a91e3fbdf860f1f0dfae1b57c03a35f005fd5f57661c5d78f4ac1068c616"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__radical-numerics.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/radical-numerics",
+  "fecha_captura_utc": "2026-11-06T18:53:35+00:00",
+  "http": 200,
+  "bytes": 168684,
+  "sha256": "5227317a48c4dd7ef9087a703b7fc896c274cbbbc5cd7fa10a8bf25fbe55f187"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__railway.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/railway",
+  "fecha_captura_utc": "2026-11-06T18:53:36+00:00",
+  "http": 200,
+  "bytes": 137877,
+  "sha256": "12a2ffba10aabdc3c1e9ea2cf1a20b9d7a3baed2cdcac1e33fb2e4ed9f9f4a86"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__rebar.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/rebar",
+  "fecha_captura_utc": "2026-11-06T18:53:37+00:00",
+  "http": 200,
+  "bytes": 164528,
+  "sha256": "b77b712f93192a6d956f036075bae873c6da4aea81b39c39f9b94facdb65cbca"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__reducto.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/reducto",
+  "fecha_captura_utc": "2026-11-06T18:53:39+00:00",
+  "http": 200,
+  "bytes": 485601,
+  "sha256": "5fc09e23806928a5c6bb1297ea59550fe6f78d81d293a24284a8a1e2afc38735"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__reframesystems.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/reframesystems",
+  "fecha_captura_utc": "2026-11-06T18:53:40+00:00",
+  "http": 200,
+  "bytes": 416842,
+  "sha256": "a5ea382ec55e2903cb9217a721ad1460dd1c66e402596f4463f61128a1cde295"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__rho.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/rho",
+  "fecha_captura_utc": "2026-11-06T18:53:41+00:00",
+  "http": 200,
+  "bytes": 421459,
+  "sha256": "8bc8440d98edd55a627845f3a06781f0d4f106e99969b189be6456e25c658e06"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__rightfoot.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/rightfoot",
+  "fecha_captura_utc": "2026-11-06T18:53:42+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__river.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/river",
+  "fecha_captura_utc": "2026-11-06T18:53:43+00:00",
+  "http": 200,
+  "bytes": 28901,
+  "sha256": "39f730199c1240f8572daaf216e37919f6b707c7fe6aca6c3f203de30b2239cd"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__routefusion.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/routefusion",
+  "fecha_captura_utc": "2026-11-06T18:53:46+00:00",
+  "http": 200,
+  "bytes": 11871,
+  "sha256": "fb163c0b2f96989a4645cd24fb7c64d8b8ed83c5ad10fe03a6113c930be6efbf"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__runway-ml.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/runway-ml",
+  "fecha_captura_utc": "2026-11-06T18:53:47+00:00",
+  "http": 200,
+  "bytes": 764385,
+  "sha256": "e998e56684411f5ef9dfb88496eff3698862a898f2399ca34a3097403ee2baea"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__safety.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/safety",
+  "fecha_captura_utc": "2026-11-06T18:53:48+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__safi.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/safi",
+  "fecha_captura_utc": "2026-11-06T18:53:49+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__salesjack.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/salesjack",
+  "fecha_captura_utc": "2026-11-06T18:53:50+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__scholarly.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/scholarly",
+  "fecha_captura_utc": "2026-11-06T18:53:52+00:00",
+  "http": 200,
+  "bytes": 8290,
+  "sha256": "18358c619386eb0c5f922dc722386ed61438b07c7f0c02265b3fc2bad0542201"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__schoolhouse-world.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/schoolhouse-world",
+  "fecha_captura_utc": "2026-11-06T18:53:53+00:00",
+  "http": 200,
+  "bytes": 50552,
+  "sha256": "89668c1c2a280c9bc16746279b12cd508c8f9577b373c729d2f8cc5eff23f6fd"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__scribdinc.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/scribdinc",
+  "fecha_captura_utc": "2026-11-06T18:53:55+00:00",
+  "http": 200,
+  "bytes": 573204,
+  "sha256": "52ab96ccc23a7c324fbe1a2ae245df0b5e10518c18ab6a6b2bc8cbc665356ff1"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__sentilink.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/sentilink",
+  "fecha_captura_utc": "2026-11-06T18:53:56+00:00",
+  "http": 200,
+  "bytes": 591126,
+  "sha256": "c366eedb8623e3403ebe0463934bb6e97d9059b6cd157d51e6cd07edaacdd7c5"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__sesame.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/sesame",
+  "fecha_captura_utc": "2026-11-06T18:53:57+00:00",
+  "http": 200,
+  "bytes": 191128,
+  "sha256": "4f04c6a593f86065c532aee1283917ff2b232ffc287fa361d89d54fbff4e86a6"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__sfcompute.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/sfcompute",
+  "fecha_captura_utc": "2026-11-06T18:54:00+00:00",
+  "http": 200,
+  "bytes": 102550,
+  "sha256": "cc183b6b16dd5cc61d0fac713822d377e642470d45f8e71a115b00aece31a3f9"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__sheerhealth.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/sheerhealth",
+  "fecha_captura_utc": "2026-11-06T18:54:01+00:00",
+  "http": 200,
+  "bytes": 8886,
+  "sha256": "42ae9e80d0f23c41d52df932947f1331d14d5684482c1002d80becdc6e326fb6"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__shepherd.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/shepherd",
+  "fecha_captura_utc": "2026-11-06T18:54:02+00:00",
+  "http": 200,
+  "bytes": 541434,
+  "sha256": "dfb9f505430ce0ec1e75695cfa47c830aeeb75b622c6e8766e06962e43b6d340"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__siftstack.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/siftstack",
+  "fecha_captura_utc": "2026-11-06T18:54:03+00:00",
+  "http": 200,
+  "bytes": 338074,
+  "sha256": "370f2cc813db378576d7b4d760f4532c12a794af3cab217ab9c57ddfcf11f26b"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__signoz.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/signoz",
+  "fecha_captura_utc": "2026-11-06T18:54:05+00:00",
+  "http": 200,
+  "bytes": 122426,
+  "sha256": "9796ac4506ceb788d0470a6ad6cb0b71a6fdedc6e86072a6ccc2510472fcf19d"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__slab.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/slab",
+  "fecha_captura_utc": "2026-11-06T18:54:06+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__smarkets.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/smarkets",
+  "fecha_captura_utc": "2026-11-06T18:54:07+00:00",
+  "http": 200,
+  "bytes": 82552,
+  "sha256": "2b1ed16fbec2d0f81d95782b3c0b2da3647b8732299d572bb010df8aea5ba132"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__sobek-ai.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/sobek-ai",
+  "fecha_captura_utc": "2026-11-06T18:54:08+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__socket.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/socket",
+  "fecha_captura_utc": "2026-11-06T18:54:09+00:00",
+  "http": 200,
+  "bytes": 392947,
+  "sha256": "dc6da3bd56b0588440381954c746479ca417007f9b164783cfa41d670cc41763"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__solace.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/solace",
+  "fecha_captura_utc": "2026-11-06T18:54:10+00:00",
+  "http": 200,
+  "bytes": 109672,
+  "sha256": "769b51102e1e1460e86d05cb3fe9eceaccbd71858e2c1775610b9c249a25fe35"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__somana.tech.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/somana.tech",
+  "fecha_captura_utc": "2026-11-06T18:54:12+00:00",
+  "http": 200,
+  "bytes": 74246,
+  "sha256": "5cc54f591c9309e1021c139a111872901b2e3adc79a810b5d6a8628c8a635981"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__speckle.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/speckle",
+  "fecha_captura_utc": "2026-11-06T18:54:13+00:00",
+  "http": 200,
+  "bytes": 23390,
+  "sha256": "e2df96afdd5894ded58bd85c4024a2a06ca99aaf14dba9b6b0c4cdf7bfb94334"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__spruceid.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/spruceid",
+  "fecha_captura_utc": "2026-11-06T18:54:14+00:00",
+  "http": 200,
+  "bytes": 97013,
+  "sha256": "71841d58ffe64ee7ff776ec840f2e83588987d885d65cc8331bd454b585100ad"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__squint.ai.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/squint.ai",
+  "fecha_captura_utc": "2026-11-06T18:54:15+00:00",
+  "http": 200,
+  "bytes": 103599,
+  "sha256": "e0deb29aaf02818efc5f5bb843e3e2e823ddc954a4ca853a8e2918d388929f0d"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__steel.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/steel",
+  "fecha_captura_utc": "2026-11-06T18:54:16+00:00",
+  "http": 200,
+  "bytes": 15493,
+  "sha256": "dfb98d9643db9ba7f27ff80fb4f1e1e7316a3ddb8919d00777f7be2ab115c9d5"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__stream.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/stream",
+  "fecha_captura_utc": "2026-11-06T18:54:17+00:00",
+  "http": 200,
+  "bytes": 140946,
+  "sha256": "1e02a38614307ce71996e5d1b7d4ca65b5caf3c3d72a561d26131af1c1c12473"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__stytch.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/stytch",
+  "fecha_captura_utc": "2026-11-06T18:54:19+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__suno.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/suno",
+  "fecha_captura_utc": "2026-11-06T18:54:20+00:00",
+  "http": 200,
+  "bytes": 961934,
+  "sha256": "edb4551948e30beec6dbabb41d2e8f126a1c45c503d7158be3c708d854b46687"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__supabase.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/supabase",
+  "fecha_captura_utc": "2026-11-06T18:54:21+00:00",
+  "http": 200,
+  "bytes": 971836,
+  "sha256": "ac7811d50eb63e77351d094010514dbfd044131935a4eaa2cc093948623ac609"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__terraai.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/terraai",
+  "fecha_captura_utc": "2026-11-06T18:54:23+00:00",
+  "http": 200,
+  "bytes": 138096,
+  "sha256": "a82cd6b96f9fa252487b6ae60307956066da748bbf53d36bc06dbb15559b320e"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__tetsuwan.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/tetsuwan",
+  "fecha_captura_utc": "2026-11-06T18:54:26+00:00",
+  "http": 200,
+  "bytes": 17778,
+  "sha256": "1737f432fc2201cc3167cfd6360559a600c80ee39a51a06fca71a5a09ab7dd66"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__thundercompute.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/thundercompute",
+  "fecha_captura_utc": "2026-11-06T18:54:27+00:00",
+  "http": 200,
+  "bytes": 7640,
+  "sha256": "fb2bccecce42fdfa30aab18b8fbb94ea6fe494a8876c1549f6cb499323002f3b"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__titan.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/titan",
+  "fecha_captura_utc": "2026-11-06T18:54:29+00:00",
+  "http": 200,
+  "bytes": 151382,
+  "sha256": "8729267186ffd92027cc4774f7c6b45ca3a784d3164adf98f7292de65c9e7fb6"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__tolmo.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/tolmo",
+  "fecha_captura_utc": "2026-11-06T18:54:30+00:00",
+  "http": 200,
+  "bytes": 57335,
+  "sha256": "c5fa5683953f778052faf968d322ec04827b54903c667585e11ff96c31659b18"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__tonicai.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/tonicai",
+  "fecha_captura_utc": "2026-11-06T18:54:31+00:00",
+  "http": 200,
+  "bytes": 14224,
+  "sha256": "7e95a6e08062e201feb1f291f458b9af7b28cfb24aed1dad9b47db86879bcd8c"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__traba.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/traba",
+  "fecha_captura_utc": "2026-11-06T18:54:33+00:00",
+  "http": 200,
+  "bytes": 210169,
+  "sha256": "b0fc46c22441a0235b3f8e9f42d4c6980420bb3848198ce639e2921a310a723a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__tracelabs.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/tracelabs",
+  "fecha_captura_utc": "2026-11-06T18:54:34+00:00",
+  "http": 200,
+  "bytes": 56721,
+  "sha256": "3d758a7e53ccfa555de2e47507ad50e6f94aa6cde7ea2eeeb22c3e296b3e7b6c"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__triggerdev.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/triggerdev",
+  "fecha_captura_utc": "2026-11-06T18:54:36+00:00",
+  "http": 200,
+  "bytes": 80016,
+  "sha256": "251df10bdb09408830f845b03d9bf06ad50049dbd393d364574910c4e4bbefd6"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__trychroma.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/trychroma",
+  "fecha_captura_utc": "2026-11-06T18:54:37+00:00",
+  "http": 200,
+  "bytes": 1547,
+  "sha256": "ea45eb852b23e804e1db067545d2f4d721eb72e82adfd0db1b8a4cbd604bd2ff"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__turnstile.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/turnstile",
+  "fecha_captura_utc": "2026-11-06T18:54:38+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__turquoise-health.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/turquoise-health",
+  "fecha_captura_utc": "2026-11-06T18:54:39+00:00",
+  "http": 200,
+  "bytes": 240347,
+  "sha256": "118223f7c2bf20a7b77a03b62b36d1be985f9784fc1afd8cc0fa5c13417f251d"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__unto-labs.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/unto-labs",
+  "fecha_captura_utc": "2026-11-06T18:54:42+00:00",
+  "http": 200,
+  "bytes": 28340,
+  "sha256": "0fa5ac851ba446dd5d6af8c6dbb11a6bf79f4828b5347f365ccada43aadf6706"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__upside-tech.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/upside-tech",
+  "fecha_captura_utc": "2026-11-06T18:54:43+00:00",
+  "http": 200,
+  "bytes": 28,
+  "sha256": "03e836a65ca1e7ce4ab6bd534fd3b8d6c359fa5ceae781af2ce1c0e113ca1b9a"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__upvest.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/upvest",
+  "fecha_captura_utc": "2026-11-06T18:54:44+00:00",
+  "http": 200,
+  "bytes": 383551,
+  "sha256": "0cb11be082080f8084ce6ce4bc08d713144e884c22ad7208d68f2b3616459259"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__v7labs.com.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/v7labs.com",
+  "fecha_captura_utc": "2026-11-06T18:54:45+00:00",
+  "http": 200,
+  "bytes": 59917,
+  "sha256": "7fa6d041a16fbfbb246cf57fd550d263b66a977dfba83082bb684dd3467385c0"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__vapi.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/vapi",
+  "fecha_captura_utc": "2026-11-06T18:54:46+00:00",
+  "http": 200,
+  "bytes": 42803,
+  "sha256": "500abd6825cf747f74893b465ac160c0bec981e828043a18c0ff9cdcddb908e3"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__vitalize.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/vitalize",
+  "fecha_captura_utc": "2026-11-06T18:54:49+00:00",
+  "http": 200,
+  "bytes": 272401,
+  "sha256": "f440766a9102ce0c3baef6912840d648f872d5658a3e227d2e31da0d67d91492"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__vitvio.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/vitvio",
+  "fecha_captura_utc": "2026-11-06T18:54:50+00:00",
+  "http": 200,
+  "bytes": 6875,
+  "sha256": "3ef7a87be29c07646e023a88423f7d9763911902ffbea57fe170512ab252422f"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__voladynamics.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/voladynamics",
+  "fecha_captura_utc": "2026-11-06T18:54:51+00:00",
+  "http": 200,
+  "bytes": 34037,
+  "sha256": "f3deeb93f13d651eeab3ed65770086b91162efdac945903aee271fd67ab4483b"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__voldex.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/voldex",
+  "fecha_captura_utc": "2026-11-06T18:54:52+00:00",
+  "http": 200,
+  "bytes": 35743,
+  "sha256": "5c16da6989b075b5edde8915bca0fe54e31de72d403d4f9cd20d57fc5b616ac6"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__voltai.careers.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/voltai.careers",
+  "fecha_captura_utc": "2026-11-06T18:54:53+00:00",
+  "http": 200,
+  "bytes": 201896,
+  "sha256": "0cf45c0e9b861e659de4e8162d143c8fc0e8c19039f87528f5bc313b67791277"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__wirescreen.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/wirescreen",
+  "fecha_captura_utc": "2026-11-06T18:54:57+00:00",
+  "http": 200,
+  "bytes": 109260,
+  "sha256": "389d0721fc3de04ec30b3a44af71cab0e475013cedb2995dfb23b8c95c03b8d9"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__withdaydream.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/withdaydream",
+  "fecha_captura_utc": "2026-11-06T18:54:58+00:00",
+  "http": 200,
+  "bytes": 22015,
+  "sha256": "51d9dc8de1c9f7375c8a83e3aa71354dbc9ad43e6af0d510eb4ef990b8649128"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__workwhilejobs.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/workwhilejobs",
+  "fecha_captura_utc": "2026-11-06T18:55:00+00:00",
+  "http": 200,
+  "bytes": 75681,
+  "sha256": "7d49763aa32252ca6e49ab9b0ae3bf461500b116892f7f96ae07c95a90dc01dc"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__wundergraph.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/wundergraph",
+  "fecha_captura_utc": "2026-11-06T18:55:01+00:00",
+  "http": 200,
+  "bytes": 83790,
+  "sha256": "324e727f5bcd048742504595140ba787733904ca702d50eddfcd0afe99ae4a03"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__xdof.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/xdof",
+  "fecha_captura_utc": "2026-11-06T18:55:03+00:00",
+  "http": 200,
+  "bytes": 195645,
+  "sha256": "d4d899fac5fd91d90bdd123a4a0db4b65a3a58595866f0cf264392a067a94b61"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__zencastr.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/zencastr",
+  "fecha_captura_utc": "2026-11-06T18:55:04+00:00",
+  "http": 200,
+  "bytes": 54702,
+  "sha256": "cbf1881b9ffb4a1c497002fe6772da848e407c965bae41e2264de8fb125a114d"
+ },
+ {
+  "archivo": "data/raw/boards/ashby__zippymh.json",
+  "fuente": "ashby",
+  "url": "https://api.ashbyhq.com/posting-api/job-board/zippymh",
+  "fecha_captura_utc": "2026-11-06T18:55:05+00:00",
+  "http": 200,
+  "bytes": 398514,
+  "sha256": "0d288a1c37ed531a4e401a604b7989f896cf841223de438e6fd8267d9f45083d"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__acryldata.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/acryldata/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:06+00:00",
+  "http": 200,
+  "bytes": 35355,
+  "sha256": "20adf0c5a9a2967ca5475d664d2ebaf956d1d536fc4640d175fc9f34bcb8498d"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__addepar1.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/addepar1/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:07+00:00",
+  "http": 200,
+  "bytes": 1256622,
+  "sha256": "602fc84bb2df16025a9537fbba74a758574bbaa9a1673d1fa769ffcd51161afb"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__adyen.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/adyen/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:09+00:00",
+  "http": 200,
+  "bytes": 2375611,
+  "sha256": "86b209044c131b4b498c261fd32841e9ffe93eec1f4a94049ddeb03d514c85b7"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__agilesix.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/agilesix/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:10+00:00",
+  "http": 200,
+  "bytes": 16542,
+  "sha256": "23d9aee09c56767226097b2bd6d6d676374d5bfac12fa20cd86c87b556216c9c"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__airtamejobs.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/airtamejobs/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:11+00:00",
+  "http": 200,
+  "bytes": 29467,
+  "sha256": "b43be24e9508d49a048d90a36c17650ea79b039d5f68e392ff04960e37c14edc"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__algolia.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/algolia/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:12+00:00",
+  "http": 200,
+  "bytes": 365173,
+  "sha256": "3aebd8ee6798c09e9c5f42fda57c4d549014039bee22fd1b1b926ccfe8dd5bcf"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__alpaca.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/alpaca/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:13+00:00",
+  "http": 200,
+  "bytes": 772793,
+  "sha256": "348f0276b88e2cf7d3fa08c30098536c98c96ca479a21b6bed359b3817bcfa2b"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__andesite.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/andesite/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:15+00:00",
+  "http": 200,
+  "bytes": 76432,
+  "sha256": "2957b5aaf8dea4bb53d050e203cd48f7b35df07a11f5df832508a9203548f8aa"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__andurilindustries.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:18+00:00",
+  "http": 200,
+  "bytes": 45421310,
+  "sha256": "f1e077b65757d69675e24fe50211f4e8192efebffb6d1aca1abf0fa9d0f047ef"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__applytocuebox.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/applytocuebox/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:19+00:00",
+  "http": 200,
+  "bytes": 14734,
+  "sha256": "3b3b6ce1756878a2751a171e700786b39ff559e6435f2a635e10156c808bc345"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__applytoterial.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/applytoterial/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:20+00:00",
+  "http": 200,
+  "bytes": 18324,
+  "sha256": "aea95f0824fbb3af59f126897810a38af03168be2b7f0463d32b34d577c6d7ea"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__archer56.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/archer56/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:21+00:00",
+  "http": 200,
+  "bytes": 902792,
+  "sha256": "63cf64abc2de26cb8a03de5766712dff6d82fd6d1e70dce28aa6d669d5b6e93a"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__archera.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/archera/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:23+00:00",
+  "http": 200,
+  "bytes": 80796,
+  "sha256": "be682a50272c611eecf0debd5f9dd40b9fade6efe9507fbcef3ac5bd64018769"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__armissecurity.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/armissecurity/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:24+00:00",
+  "http": 200,
+  "bytes": 30,
+  "sha256": "09aefc0c2d96e9c065aab057f04eaa352d63f19114f01783cfa12c890427f7f8"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__atomicmachines.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/atomicmachines/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:25+00:00",
+  "http": 200,
+  "bytes": 384433,
+  "sha256": "c01d2132f7bc89b7529b30fd620e7be1b56e6c6277e8942b9a0d96ad18e4971a"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__avride.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/avride/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:27+00:00",
+  "http": 200,
+  "bytes": 375522,
+  "sha256": "e3fc7c0b22cb98c2de0e43dc6c158deb22739215dece3f005ea3780a7d435d07"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__backblaze.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/backblaze/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:28+00:00",
+  "http": 200,
+  "bytes": 369761,
+  "sha256": "104392d2201ef6354e6737ecf9eedb03d4825f60e06e9bc0da5246dea03d88d5"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__baton.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/baton/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:30+00:00",
+  "http": 200,
+  "bytes": 84024,
+  "sha256": "1d74d55675c9659f639adb0f5e7a841bdc0f5f59f69d820b4329b311025c1dd2"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__beautifulai.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/beautifulai/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:31+00:00",
+  "http": 200,
+  "bytes": 30,
+  "sha256": "09aefc0c2d96e9c065aab057f04eaa352d63f19114f01783cfa12c890427f7f8"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__billiontoone.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/billiontoone/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:32+00:00",
+  "http": 200,
+  "bytes": 1110669,
+  "sha256": "d7642fc6b26eb7afbb77cec4f26bce916979e56c76364c9bc19c84cb5a3b86c9"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__blackcanyonconsulting.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/blackcanyonconsulting/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:33+00:00",
+  "http": 200,
+  "bytes": 681999,
+  "sha256": "3118e9e1113bd8b26a0e2cc75b3c6b29caa4af3bab46c64088acbee1703e525b"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__brave.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/brave/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:34+00:00",
+  "http": 200,
+  "bytes": 65849,
+  "sha256": "96aff9f325e622622180e2e13faa5641b1c165aa82146261df98652ae94f2327"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__brightcoreenergy.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/brightcoreenergy/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:36+00:00",
+  "http": 200,
+  "bytes": 116665,
+  "sha256": "edd44b693f4f2e858d951bf86eda6f60089825b2e945de0842ad8ef1530b1963"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__brightnetwork.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/brightnetwork/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:37+00:00",
+  "http": 200,
+  "bytes": 30,
+  "sha256": "09aefc0c2d96e9c065aab057f04eaa352d63f19114f01783cfa12c890427f7f8"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__buildkite.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/buildkite/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:38+00:00",
+  "http": 200,
+  "bytes": 98984,
+  "sha256": "cd78cb89132aec26dc26f1d6b58a94232ba99f1d28c3ddd26a42a65ca9076932"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__canopyworks.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/canopyworks/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:40+00:00",
+  "http": 200,
+  "bytes": 114690,
+  "sha256": "ecb7f8e29fc2bde66d299ffb81a88121ec9edcab575aa29bd4002d09ed2cede5"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__carefeed.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/carefeed/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:41+00:00",
+  "http": 200,
+  "bytes": 67937,
+  "sha256": "7d487b299413db37b93ffe7a4a43fa062c8badc98fff2fcab86785247899fbc5"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__carta.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/carta/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:43+00:00",
+  "http": 200,
+  "bytes": 766802,
+  "sha256": "077b839f858dd26c86ea181c23a382ac3bdf503bbe1a07f2a2c5787beb454b33"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__censys.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/censys/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:44+00:00",
+  "http": 200,
+  "bytes": 359100,
+  "sha256": "3cfb0939dcff4256e7df21d33cd11e43e201f8cc5a4859b07e690cb06f8b18a4"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__cloudflare.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:47+00:00",
+  "http": 200,
+  "bytes": 8229708,
+  "sha256": "3231f4d336dbc1bcf0ff9176084910583b7e2740849cc03643adcc8556f6f622"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__coast.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/coast/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:48+00:00",
+  "http": 200,
+  "bytes": 218070,
+  "sha256": "7657d1bccedc1235805ba9cf59ddddfdb505a211fe32e46f4a4d4d54be979c92"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__cobaltio.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/cobaltio/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:49+00:00",
+  "http": 200,
+  "bytes": 84473,
+  "sha256": "bbf44faf16d66b06b1f51d9d98bed2ffc4253d8603f83c0b0f9f0742736d0230"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__coefficient.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/coefficient/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:50+00:00",
+  "http": 200,
+  "bytes": 40891,
+  "sha256": "dad848e58f62850086873d773680e02bd05ff40f273dca6fdd52bfc6e937fa70"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__cognite.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/cognite/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:51+00:00",
+  "http": 200,
+  "bytes": 757972,
+  "sha256": "c3df67ff8b687b65bfda22ccdcde271df4a5980406c4394cbe896ab2cfd368ca"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__commercetools.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/commercetools/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:52+00:00",
+  "http": 200,
+  "bytes": 466419,
+  "sha256": "c1192700dac9f670d63833925117543e949f986ee364e0c1c63bfd05c8be09fb"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__controlplane.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/controlplane/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:54+00:00",
+  "http": 200,
+  "bytes": 25979,
+  "sha256": "3ec49d2725fc426aef2a774d0cf2727f5000e1bf874a07d28541b10923f12e4b"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__costar.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/costar/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:55+00:00",
+  "http": 200,
+  "bytes": 42942,
+  "sha256": "e9af2be3cbcb6d9de49efe586c367f52eb12526e847ece526942e33dc5f426be"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__covar.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/covar/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:56+00:00",
+  "http": 200,
+  "bytes": 116088,
+  "sha256": "b3572f4a66feca8f74243b2d4965a5273b24d7e5103e9fdea1af23a466c0e365"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__creativefabrica.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/creativefabrica/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:57+00:00",
+  "http": 200,
+  "bytes": 109624,
+  "sha256": "acf8aa2f7088feb45ab9d501f9f4ea0f24416aa2effa332e938889b8c5ba7122"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__dexory.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/dexory/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:55:59+00:00",
+  "http": 200,
+  "bytes": 285873,
+  "sha256": "63593ad6b5301dc15820e4746d61be12286cbc2d73ee8f14ba328a89864d7333"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__discord.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/discord/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:01+00:00",
+  "http": 200,
+  "bytes": 256730,
+  "sha256": "9e4e786c71ce7606de7493fb2c0bc518aa9b688040e235a3e4331ad47113cd23"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__doubleverify.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/doubleverify/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:03+00:00",
+  "http": 200,
+  "bytes": 30,
+  "sha256": "09aefc0c2d96e9c065aab057f04eaa352d63f19114f01783cfa12c890427f7f8"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__emergentlabsinc.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/emergentlabsinc/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:04+00:00",
+  "http": 200,
+  "bytes": 402020,
+  "sha256": "d98cafb7911700ed3d69d0ad6677fd79e2345e80760743d1112d9d931082496c"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__epickids.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/epickids/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:05+00:00",
+  "http": 200,
+  "bytes": 97223,
+  "sha256": "995fd543eef279a51b202ad30d92d897a7621e565d2350a309548fd66daf9c6a"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__fay.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/fay/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:07+00:00",
+  "http": 200,
+  "bytes": 24227,
+  "sha256": "58a3bdbc8c5dbd095e1ae51524861a8e72a69cd59797e4c3b1a5af20b7d07b48"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__figma.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/figma/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:08+00:00",
+  "http": 200,
+  "bytes": 1687966,
+  "sha256": "bfd657bdc7c1af10d4a65cd7fa91ce4d45a852573b703cb38f38f792320def94"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__finnapp.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/finnapp/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:09+00:00",
+  "http": 200,
+  "bytes": 69566,
+  "sha256": "b30a42c20f7d25ef4f4e4feea5020511e634e3779fd98e09f5d720fbd57d4f0b"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__garnerhealth.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/garnerhealth/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:12+00:00",
+  "http": 200,
+  "bytes": 625402,
+  "sha256": "38f6bea0c9dfb19fba4bfef91e0485c5e86c2785fbadb91a293da17861470e63"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__givedirectly.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/givedirectly/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:14+00:00",
+  "http": 200,
+  "bytes": 728347,
+  "sha256": "53ce807659416812fd7dab87009455673ac9d54db5d0749071d16ee08e5eee74"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__go1au.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/go1au/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:15+00:00",
+  "http": 200,
+  "bytes": 10704,
+  "sha256": "2351a3c87e5d9cd1409de4f248ad3e7d03fc63c5f8ffd5ce13134e36c0b9d309"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__goatgroup.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/goatgroup/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:16+00:00",
+  "http": 200,
+  "bytes": 332674,
+  "sha256": "05d5f56ff41122aa6ca1143fec2f6905b11487d4682905455fbf2440ce0f9f90"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__grafanalabs.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/grafanalabs/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:18+00:00",
+  "http": 200,
+  "bytes": 2054355,
+  "sha256": "b1d3b149f634a565ce106ff55356e0dcfd91d17ca3f4c81ae3d11dbe311478f5"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__hudl.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/hudl/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:24+00:00",
+  "http": 200,
+  "bytes": 556024,
+  "sha256": "94df40b1ebb70bb0612284e0a75ebb738ea51aca8fed0910f7a1a8664068a9b7"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__humansignal.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/humansignal/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:25+00:00",
+  "http": 200,
+  "bytes": 581470,
+  "sha256": "708041efeb343ecae8958c356b3a25cc19eec3a9c3fb94f62795299246c46d4e"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__icapitalnetwork.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/icapitalnetwork/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:27+00:00",
+  "http": 200,
+  "bytes": 2087536,
+  "sha256": "4ce9678c042bb6bbe178204d1649b489ae465e68ce87814980b62a82e10026af"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__idme.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/idme/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:28+00:00",
+  "http": 200,
+  "bytes": 770817,
+  "sha256": "ebb379a404045fad4d24d9d2ff8d65befe586d3a608f13849d7fb4f53fcbe39e"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__ionq.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/ionq/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:30+00:00",
+  "http": 200,
+  "bytes": 1881303,
+  "sha256": "8bffa267555d3fc05e0b0ba9e6ef5f57e6bf935ed3f7c442196ced9f3b22f65c"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__justworks.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/justworks/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:31+00:00",
+  "http": 200,
+  "bytes": 1976814,
+  "sha256": "57ba4994dfe016a40605d64906102019f2966124db799b233f8374683e281dbd"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__juullabs.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/juullabs/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:32+00:00",
+  "http": 200,
+  "bytes": 81315,
+  "sha256": "ca9b5b3d1d7e690a6af1c5aea0f92d3155094787a1cf8b1aaca3fe0fb2692d93"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__k2spacecorporation.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/k2spacecorporation/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:34+00:00",
+  "http": 200,
+  "bytes": 5587667,
+  "sha256": "5ffdd8debbe190dc1d397604c381e0bca99e973dd962dae41f7cb0834482ea12"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__kinelo.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/kinelo/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:35+00:00",
+  "http": 200,
+  "bytes": 30,
+  "sha256": "09aefc0c2d96e9c065aab057f04eaa352d63f19114f01783cfa12c890427f7f8"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__koboldmetals.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/koboldmetals/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:36+00:00",
+  "http": 200,
+  "bytes": 338165,
+  "sha256": "d0746db2e27e7b2576cda3b71143b37cee9346e6b86db2343977c6683788ebf9"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__komodohealth.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/komodohealth/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:37+00:00",
+  "http": 200,
+  "bytes": 313814,
+  "sha256": "345a76bb28612c0adb16f0d273adc6daf01ea7b9a00e0e93e78debe8ae371d7c"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__launchdarkly.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/launchdarkly/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:38+00:00",
+  "http": 200,
+  "bytes": 584768,
+  "sha256": "356f4e2f6caa8301bd84bbbb44c28501c0b590d999726ef6bf7d1f99b4025bd3"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__lightningai.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/lightningai/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:40+00:00",
+  "http": 200,
+  "bytes": 809874,
+  "sha256": "d8d17e66d2b353ea4348af6e1c381e24201a7e00a3101a49fbf44128fd381a7e"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__lithic.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/lithic/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:41+00:00",
+  "http": 200,
+  "bytes": 94058,
+  "sha256": "c259d6e0117faed608373f8bbb9ae5e9ce8d9bfe1668d84fb6a479ee10f2aee4"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__manifest.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/manifest/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:44+00:00",
+  "http": 200,
+  "bytes": 41378,
+  "sha256": "bd9067055f7510e72e7633476fe809ded8b62041c692cf8159e2644a58da6a6a"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__materiom.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/materiom/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:47+00:00",
+  "http": 200,
+  "bytes": 24010,
+  "sha256": "eb14bfd299a880a3aa594dd759c1b956ba127b7f9576aa5844924781f1c8e699"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__mattermost.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/mattermost/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:48+00:00",
+  "http": 200,
+  "bytes": 138596,
+  "sha256": "903f9a1c78bc7a8eaae7e44c882b418bf0a39ec9b43f0789fc62d8e8361b277b"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__mentimeter.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/mentimeter/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:50+00:00",
+  "http": 200,
+  "bytes": 207055,
+  "sha256": "958dd7e16b00d928afb72164828758cacb06b3cf694ab8ce4912c03fef03d7cf"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__mithril.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/mithril/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:51+00:00",
+  "http": 200,
+  "bytes": 40879,
+  "sha256": "ee964d901766a8bdb05b5b3100a52d231c3378aa52536ca8184d11e339249947"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__mixmode.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/mixmode/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:52+00:00",
+  "http": 200,
+  "bytes": 14235,
+  "sha256": "67b93a4adee69bffb0c76c175366a26f3711a1a11122dac3faf85e09a1bf0f46"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__motivity.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/motivity/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:54+00:00",
+  "http": 200,
+  "bytes": 15979,
+  "sha256": "acb3984d534fd7437de4a5d15aab00cfcb9dd35f90863515a7bda0284c403627"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__mozilla.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/mozilla/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:55+00:00",
+  "http": 200,
+  "bytes": 1840886,
+  "sha256": "03f9191ed8c42505cc8a8ed18c64fa0ab0f7aea8af3fd83eedcea5a905089420"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__natera.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/natera/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:56+00:00",
+  "http": 200,
+  "bytes": 3067170,
+  "sha256": "0848f4ab3ca36c004b6928075f374484bb55384b2ff726acea20ddd61fd279d9"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__ngrokinc.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/ngrokinc/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:56:57+00:00",
+  "http": 200,
+  "bytes": 66505,
+  "sha256": "8f5732dce3d15c751da3b061b80d73c366def8b2915d4e80bcd61e6aaa4f00d5"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__novacredit.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/novacredit/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:00+00:00",
+  "http": 200,
+  "bytes": 87194,
+  "sha256": "4fb27b98d5c4dd510960b2a4484c8cc120963ff3b4a2491c411faf02f72bfdad"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__obsidiansecurity.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/obsidiansecurity/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:04+00:00",
+  "http": 200,
+  "bytes": 182246,
+  "sha256": "9897b214ecd136bb0c1f5dcfcbdee2edf6e836f6df9c4b300dd86a8f9f7c038c"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__officehours.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/officehours/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:05+00:00",
+  "http": 200,
+  "bytes": 55234,
+  "sha256": "df60093d5d222f48bde787066b2130fffc5895f2063d46ebc02573dc3c69f706"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__oklo.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/oklo/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:06+00:00",
+  "http": 200,
+  "bytes": 993322,
+  "sha256": "256dc43fd56d8f0d9de549bb6a393024d0a0c243400dbb6f5d0f44399fa47cb4"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__orkes.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/orkes/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:07+00:00",
+  "http": 200,
+  "bytes": 186319,
+  "sha256": "ab807ba06007ff8863c3cda62e3da980a144bd806beb906227bcb12a7b8f8817"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__pawapay.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/pawapay/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:09+00:00",
+  "http": 200,
+  "bytes": 54213,
+  "sha256": "094d93e6bf4e8668eaea6f21c081ab27a51cd560385a0c9f410a95e870a8e004"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__paytient.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/paytient/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:11+00:00",
+  "http": 200,
+  "bytes": 15148,
+  "sha256": "fc453206cc9d032c815e09d517b5de2f03fe82764e45c19d757d43a15c28b020"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__peregrinetechnologies.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/peregrinetechnologies/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:12+00:00",
+  "http": 200,
+  "bytes": 678033,
+  "sha256": "ef68e79f71f6f8c3fc43415d6f64d95a737d9590eafc8ad3dbe7346a5dc8775e"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__perpay.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/perpay/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:13+00:00",
+  "http": 200,
+  "bytes": 188139,
+  "sha256": "63425627e2860376da60b6565c3558883d7fbb02278bda43bbda96e9ed86a18e"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__physicsx.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/physicsx/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:14+00:00",
+  "http": 200,
+  "bytes": 505387,
+  "sha256": "0500f2e4e546ae18fc2f1b27f0ec332a69aa4edeea01ab804adc9ea3b99504a6"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__piramidalinc.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/piramidalinc/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:16+00:00",
+  "http": 200,
+  "bytes": 14314,
+  "sha256": "c9d5c38352647f8b4f7cf511126b9ff505e11e98de974898d8ebf5ca40359f9e"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__planetscale.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/planetscale/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:17+00:00",
+  "http": 200,
+  "bytes": 98903,
+  "sha256": "6c3bfb8c72c8baedfa2e44a1ba6433519aaf9f563a18143035bd8bdc62cd82b8"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__prolific.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/prolific/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:19+00:00",
+  "http": 200,
+  "bytes": 457186,
+  "sha256": "007706e900c8ac5545223990a04bfd0387552a2696d90cb35e62b9ac5f640964"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__propublica.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/propublica/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:20+00:00",
+  "http": 200,
+  "bytes": 30466,
+  "sha256": "bcd37a836c810d6be59621af11167b6aaa72fae1b735be8f232be06f3d98ddc1"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__proton.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/proton/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:21+00:00",
+  "http": 200,
+  "bytes": 249574,
+  "sha256": "04f49a6b892ca4a46736b41f1cb8325c0997a53de443cca7006fcc90c33f3409"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__reddit.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/reddit/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:23+00:00",
+  "http": 200,
+  "bytes": 2177999,
+  "sha256": "6bec05b7e19cc8f23edcbcc5a02dd79c5e51f22c21dfacb488d3debd5440bfe9"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__relativity.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/relativity/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:25+00:00",
+  "http": 200,
+  "bytes": 6921744,
+  "sha256": "504800d3012e94488e32b0dbe2fab553212249c4f125c013d509c407b4d8a84c"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__saasgroup.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/saasgroup/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:28+00:00",
+  "http": 200,
+  "bytes": 174746,
+  "sha256": "e3e6ccfecf04498225f2380b4c42eda442fb1bb3b686039e3d514a71018f8235"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__sagebionetworks.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/sagebionetworks/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:29+00:00",
+  "http": 200,
+  "bytes": 35611,
+  "sha256": "1f312ce7b3f23b0edd7b3f956d891e602f917a58feb8045e1db888a357ec1579"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__senseiag.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/senseiag/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:30+00:00",
+  "http": 200,
+  "bytes": 33954,
+  "sha256": "09a3f64cbea86bfb403ec3e3a65820871edc445a7d8ed3c0fbb869b35f216557"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__soundcloud71.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/soundcloud71/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:32+00:00",
+  "http": 200,
+  "bytes": 267338,
+  "sha256": "9ad9b98f4af30cf706d83d9b3b6e3bd4ce3c75e785a0bc4d6bba1b88bac19b32"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__spacex.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/spacex/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:35+00:00",
+  "http": 200,
+  "bytes": 33129425,
+  "sha256": "1ec434b80173b5f643dd3889189a52aa2b6b41115e929902a1d946fff12618b4"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__tailscale.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/tailscale/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:38+00:00",
+  "http": 200,
+  "bytes": 1009471,
+  "sha256": "5fd5ddc8c67c0953a5ff878cb31349602dbce945aa1e333d286f88df8cf6bc44"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__thealleninstitute.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/thealleninstitute/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:39+00:00",
+  "http": 200,
+  "bytes": 259633,
+  "sha256": "ff6d9959daae7609a0d2b9dd20d806ad046769fde4cad8f6eefc8f3c17c1d094"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__thenewyorktimes.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/thenewyorktimes/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:40+00:00",
+  "http": 200,
+  "bytes": 2195203,
+  "sha256": "57f8b429a533f0db24d01e0ef87598852297f8698bd62e1c55a69ee116efea4b"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__tmc.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/tmc/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:41+00:00",
+  "http": 200,
+  "bytes": 30,
+  "sha256": "09aefc0c2d96e9c065aab057f04eaa352d63f19114f01783cfa12c890427f7f8"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__ttiinc.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/ttiinc/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:44+00:00",
+  "http": 200,
+  "bytes": 1609,
+  "sha256": "3dbb53e6323e59fed1b94618b0d3c1ea7dedc800f8dadb1d1c7b4f473df4b9e6"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__twosixtechnologies.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/twosixtechnologies/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:45+00:00",
+  "http": 200,
+  "bytes": 1102003,
+  "sha256": "71508c3af4be1f0da66d6634e9baedbdea8d7897d47a677bf9bcb1903652f68b"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__udacity.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/udacity/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:46+00:00",
+  "http": 200,
+  "bytes": 333745,
+  "sha256": "fc6b4ec8738cecf408707481b2f75196b530c553bef05a89f87b43ef0f52992b"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__updater.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/updater/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:47+00:00",
+  "http": 200,
+  "bytes": 11464,
+  "sha256": "e14dad323cf59a763aa3a69904bb50ba27609c093f70d0fbb78af9172e11466d"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__vannevarlabs.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/vannevarlabs/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:48+00:00",
+  "http": 200,
+  "bytes": 399136,
+  "sha256": "cbba0a4c460504c3702ec10045ab61c14f1ecf314aa8fbd8b6c7e0e450878d09"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__verisign.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/verisign/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:51+00:00",
+  "http": 200,
+  "bytes": 150309,
+  "sha256": "749a6eeb0a27fb36687ba20abc4fe43d6c57b8f17be8d88b200c460acd12dda6"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__verkada.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/verkada/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:52+00:00",
+  "http": 200,
+  "bytes": 4124793,
+  "sha256": "1b9eebe0b75312bd467fc2ecd49bc7aab57d8f8cf36a0b1ca36f99f741a3629d"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__vestwell.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/vestwell/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:54+00:00",
+  "http": 200,
+  "bytes": 426054,
+  "sha256": "526ffa0e267108e5a2b8d1bc2c435cea1a4542a44d4f21352e62eaf1e561eec2"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__via.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/via/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:55+00:00",
+  "http": 200,
+  "bytes": 1198548,
+  "sha256": "7a11b2f250d656dad8f8c19f851acd039503f1e319640b64819f5dce29d52d7f"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__vivodyne.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/vivodyne/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:56+00:00",
+  "http": 200,
+  "bytes": 44803,
+  "sha256": "777bedd7fc0737f952f49aaff81300ed7a915d65051f2308778e5b9c54e703bb"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__weave.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/weave/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:57+00:00",
+  "http": 200,
+  "bytes": 21368,
+  "sha256": "bc85215615d00f534a8e89b66dd6c62bf494105aeb545a8dd5992789271f8aa7"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__wikimedia.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/wikimedia/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:57:58+00:00",
+  "http": 200,
+  "bytes": 261070,
+  "sha256": "8426303d288d3a7d3fdc647b9ee2bbc74bd0af6d3cb0e1a06f6a62c41b20af8d"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__wonderschool.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/wonderschool/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:58:00+00:00",
+  "http": 200,
+  "bytes": 259654,
+  "sha256": "6feabbc3a6d384d3e5f15cf184712df12e6fb9794378ac9267cc854d28df0f9f"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__workhelix.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/workhelix/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:58:01+00:00",
+  "http": 200,
+  "bytes": 138207,
+  "sha256": "07bc8d065d9cc29daf5ee21fb3264c285fc043eda79f5944a3bb5390357f9c8b"
+ },
+ {
+  "archivo": "data/raw/boards/greenhouse__xai.json",
+  "fuente": "greenhouse",
+  "url": "https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true",
+  "fecha_captura_utc": "2026-11-06T18:58:02+00:00",
+  "http": 200,
+  "bytes": 2495243,
+  "sha256": "ee1161007774d141080c0b959a4256e5367d5cda92d189a7a8dc1371576b087d"
+ }
+]

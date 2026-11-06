@@ -3,7 +3,7 @@ import json, re, html, hashlib, pandas as pd, numpy as np
 PAR = json.load(open("config/parametros.json"))   # parametros de la edicion
 SEMILLA, TOPE, VIGENCIA_DIAS, MIN_PAL = PAR["semilla"], PAR["tope_por_empresa"], PAR["vigencia_dias"], PAR["min_palabras"]
 HOY = pd.Timestamp(PAR["fecha_corte"], tz="UTC")
-d = pd.read_pickle("data/processed/avisos_unificado.pkl")
+d = pd.read_pickle("data/processed/avisos_poblacion_unificada.pkl")
 def limpiar(t):
     t = html.unescape(str(t)); t = re.sub(r"<[^>]+>", " ", t); t = html.unescape(t)
     return re.sub(r"\s+", " ", t).strip()
@@ -31,9 +31,9 @@ print("empresas:", e.empresa.nunique(), "| máx por empresa:", e.empresa.value_c
 print("idioma:", e.idioma.value_counts().to_dict(), "| palabras mediana/min/max:", int(e.palabras.median()), e.palabras.min(), e.palabras.max())
 print("fuente:", e.fuente.value_counts().to_dict()); print("acceso:", e.acceso.value_counts().to_dict())
 print("años pedidos (entrada <=2):", e.anios_req.value_counts(dropna=False).sort_index().to_dict())
-e.to_pickle("data/processed/muestra_entrada_IA.pkl")
-c = e.drop(columns=["texto", "texto_limpio"]); c.to_csv("data/processed/muestra_entrada_IA_sin_texto.csv", index=False)
-print("SHA-256 muestra:", hashlib.sha256(open("data/processed/muestra_entrada_IA_sin_texto.csv", "rb").read()).hexdigest())
+e.to_pickle("data/processed/avisos_muestra_analisis.pkl")
+c = e.drop(columns=["texto", "texto_limpio"]); c.to_csv("data/processed/avisos_muestra_analisis.csv", index=False)
+print("SHA-256 muestra:", hashlib.sha256(open("data/processed/avisos_muestra_analisis.csv", "rb").read()).hexdigest())
 # sensibilidades de población
 for nombre, dias in [("vigencia 180 días", 180), ("vigencia 730 días", 730)]:
     print(nombre, ":", int(((d.nivel_regla.str.startswith('entrada') & d.rol_ia_titulo) & ((HOY - pd.to_datetime(d.fecha_publicacion, utc=True)).dt.days <= dias)).sum()))

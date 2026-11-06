@@ -1,0 +1,209 @@
+[
+ {
+  "archivo": "data/raw/agregadores/himalayas__machine_learning__0.json",
+  "fuente": "himalayas",
+  "url": "https://himalayas.app/jobs/api/search?q=machine+learning&page=1",
+  "fecha_captura_utc": "2026-11-06T18:47:30+00:00",
+  "http": 200,
+  "bytes": 104436,
+  "sha256": "65093171039277fb50333aba1d122e2b6889d2d7d32a329900da77f62b465e58"
+ },
+ {
+  "archivo": "data/raw/agregadores/himalayas__machine_learning__1.json",
+  "fuente": "himalayas",
+  "url": "https://himalayas.app/jobs/api/search?q=machine+learning&page=2",
+  "fecha_captura_utc": "2026-11-06T18:47:32+00:00",
+  "http": 200,
+  "bytes": 118912,
+  "sha256": "383fa1a848c54ee48530c07f7e95dac0fbca27bf80f4672360520e4fefe5e03f"
+ },
+ {
+  "archivo": "data/raw/agregadores/himalayas__machine_learning__2.json",
+  "fuente": "himalayas",
+  "url": "https://himalayas.app/jobs/api/search?q=machine+learning&page=3",
+  "fecha_captura_utc": "2026-11-06T18:47:34+00:00",
+  "http": 200,
+  "bytes": 133492,
+  "sha256": "192cbc5392c9f5b27dcba0a91bcdab176c8a016dd247efcb8b33e3e8cd20e265"
+ },
+ {
+  "archivo": "data/raw/agregadores/jobicy__machine_learning.json",
+  "fuente": "jobicy",
+  "url": "https://jobicy.com/api/v2/remote-jobs?count=50&tag=machine+learning",
+  "fecha_captura_utc": "2026-11-06T18:47:37+00:00",
+  "http": 200,
+  "bytes": 430900,
+  "sha256": "7791824c92d2c2171246f5a20e75df095e41be364d54b8b7b1d82b5984f0c4ac"
+ },
+ {
+  "archivo": "data/raw/agregadores/remotive__machine_learning.json",
+  "fuente": "remotive",
+  "url": "https://remotive.com/api/remote-jobs?search=machine+learning&limit=100",
+  "fecha_captura_utc": "2026-11-06T18:47:39+00:00",
+  "http": 200,
+  "bytes": 204612,
+  "sha256": "efc94154758fca7384f5e957fee6085c6bcbaf7e7ce3870c46e64977bb813828"
+ },
+ {
+  "archivo": "data/raw/agregadores/himalayas__AI_engineer__0.json",
+  "fuente": "himalayas",
+  "url": "https://himalayas.app/jobs/api/search?q=AI+engineer&page=1",
+  "fecha_captura_utc": "2026-11-06T18:47:41+00:00",
+  "http": 200,
+  "bytes": 136369,
+  "sha256": "0272f77b7c14aa5f4dab604a5ec302995c580229ccb45ec205d447acc21a3e64"
+ },
+ {
+  "archivo": "data/raw/agregadores/himalayas__AI_engineer__1.json",
+  "fuente": "himalayas",
+  "url": "https://himalayas.app/jobs/api/search?q=AI+engineer&page=2",
+  "fecha_captura_utc": "2026-11-06T18:47:44+00:00",
+  "http": 200,
+  "bytes": 140023,
+  "sha256": "174a93c58dd58f41f44c25e1c9db91918434ceb407472bb012d6415d25487a0c"
+ },
+ {
+  "archivo": "data/raw/agregadores/himalayas__AI_engineer__2.json",
+  "fuente": "himalayas",
+  "url": "https://himalayas.app/jobs/api/search?q=AI+engineer&page=3",
+  "fecha_captura_utc": "2026-11-06T18:47:46+00:00",
+  "http": 200,
+  "bytes": 151779,
+  "sha256": "279dbb97ed1a07c7aac440fedce8f60b520be5b27577f120c69cd47d42ab45de"
+ },
+ {
+  "archivo": "data/raw/agregadores/jobicy__AI_engineer.json",
+  "fuente": "jobicy",
+  "url": "https://jobicy.com/api/v2/remote-jobs?count=50&tag=AI+engineer",
+  "fecha_captura_utc": "2026-11-06T18:47:49+00:00",
+  "http": 200,
+  "bytes": 409524,
+  "sha256": "c7279daee33bb11be8ec94e8080384b2a02a71b2809cf7bca7ae2d6d3852c079"
+ },
+ {
+  "archivo": "data/raw/agregadores/remotive__AI_engineer.json",
+  "fuente": "remotive",
+  "url": "https://remotive.com/api/remote-jobs?search=AI+engineer&limit=100",
+  "fecha_captura_utc": "2026-11-06T18:47:51+00:00",
+  "http": 200,
+  "bytes": 204612,
+  "sha256": "efc94154758fca7384f5e957fee6085c6bcbaf7e7ce3870c46e64977bb813828"
+ },
+ {
+  "archivo": "data/raw/agregadores/himalayas__data_scientist__0.json",
+  "fuente": "himalayas",
+  "url": "https://himalayas.app/jobs/api/search?q=data+scientist&page=1",
+  "fecha_captura_utc": "2026-11-06T18:47:53+00:00",
+  "http": 200,
+  "bytes": 108583,
+  "sha256": "990ab5cea9d9462b585bc41789904421f8b0f6bed47524aad6a21e5565657be2"
+ },
+ {
+  "archivo": "data/raw/agregadores/himalayas__data_scientist__1.json",
+  "fuente": "himalayas",
+  "url": "https://himalayas.app/jobs/api/search?q=data+scientist&page=2",
+  "fecha_captura_utc": "2026-11-06T18:47:56+00:00",
+  "http": 200,
+  "bytes": 108366,
+  "sha256": "6ad6f4330d2c82f5a63f5cace250ff7cc38be45c93e04f9c4ac9986167eda245"
+ },
+ {
+  "archivo": "data/raw/agregadores/himalayas__data_scientist__2.json",
+  "fuente": "himalayas",
+  "url": "https://himalayas.app/jobs/api/search?q=data+scientist&page=3",
+  "fecha_captura_utc": "2026-11-06T18:47:58+00:00",
+  "http": 200,
+  "bytes": 132032,
+  "sha256": "6eab4b52bc46d13b0d58a4ec09277e2ef8dad2dee6ee41c243a8d82a75644ca3"
+ },
+ {
+  "archivo": "data/raw/agregadores/jobicy__data_scientist.json",
+  "fuente": "jobicy",
+  "url": "https://jobicy.com/api/v2/remote-jobs?count=50&tag=data+scientist",
+  "fecha_captura_utc": "2026-11-06T18:48:01+00:00",
+  "http": 200,
+  "bytes": 413591,
+  "sha256": "d44eb4fd4954a1bd3da7e548479efa31fc87ff400433e55010b5d52902e0fe06"
+ },
+ {
+  "archivo": "data/raw/agregadores/remotive__data_scientist.json",
+  "fuente": "remotive",
+  "url": "https://remotive.com/api/remote-jobs?search=data+scientist&limit=100",
+  "fecha_captura_utc": "2026-11-06T18:48:03+00:00",
+  "http": 200,
+  "bytes": 204612,
+  "sha256": "efc94154758fca7384f5e957fee6085c6bcbaf7e7ce3870c46e64977bb813828"
+ },
+ {
+  "archivo": "data/raw/agregadores/himalayas__inteligencia_artificial__0.json",
+  "fuente": "himalayas",
+  "url": "https://himalayas.app/jobs/api/search?q=inteligencia+artificial&page=1",
+  "fecha_captura_utc": "2026-11-06T18:48:07+00:00",
+  "http": 200,
+  "bytes": 104737,
+  "sha256": "95dd0f67a918a5af89f3949dc3d87451086e40785ef19e952edf56257ea42bee"
+ },
+ {
+  "archivo": "data/raw/agregadores/himalayas__inteligencia_artificial__1.json",
+  "fuente": "himalayas",
+  "url": "https://himalayas.app/jobs/api/search?q=inteligencia+artificial&page=2",
+  "fecha_captura_utc": "2026-11-06T18:48:10+00:00",
+  "http": 200,
+  "bytes": 120982,
+  "sha256": "23b5b7ccfa89ad78d1e7849add4198e0e141fb1216017e6bebd9721b4258ace9"
+ },
+ {
+  "archivo": "data/raw/agregadores/himalayas__inteligencia_artificial__2.json",
+  "fuente": "himalayas",
+  "url": "https://himalayas.app/jobs/api/search?q=inteligencia+artificial&page=3",
+  "fecha_captura_utc": "2026-11-06T18:48:14+00:00",
+  "http": 200,
+  "bytes": 26698,
+  "sha256": "7f89d1f56f3226b409eb2252d02561ce6e1b4a094242b83e2cfba79d540a07ce"
+ },
+ {
+  "archivo": "data/raw/agregadores/remotive__inteligencia_artificial.json",
+  "fuente": "remotive",
+  "url": "https://remotive.com/api/remote-jobs?search=inteligencia+artificial&limit=100",
+  "fecha_captura_utc": "2026-11-06T18:48:32+00:00",
+  "http": 200,
+  "bytes": 204612,
+  "sha256": "efc94154758fca7384f5e957fee6085c6bcbaf7e7ce3870c46e64977bb813828"
+ },
+ {
+  "archivo": "data/raw/agregadores/remoteok__todo.json",
+  "fuente": "remoteok",
+  "url": "https://remoteok.com/api",
+  "fecha_captura_utc": "2026-11-06T18:48:34+00:00",
+  "http": 200,
+  "bytes": 639804,
+  "sha256": "9f147cf2e5c3cbebe6af4a82f68a187f6e9d95c0942c9477d6112c07c3b3801a"
+ },
+ {
+  "archivo": "data/raw/agregadores/getonboard__machine-learning-ai__1.json",
+  "fuente": "getonboard",
+  "url": "https://www.getonbrd.com/api/v0/categories/machine-learning-ai/jobs?per_page=100&page=1&expand[]=seniority&expand[]=company",
+  "fecha_captura_utc": "2026-11-06T18:48:37+00:00",
+  "http": 200,
+  "bytes": 332142,
+  "sha256": "72820303f392e98b616ac0bfdedfaf9b440430d90c61c629077075a64ebf3cb3"
+ },
+ {
+  "archivo": "data/raw/agregadores/getonboard__data-science-analytics__1.json",
+  "fuente": "getonboard",
+  "url": "https://www.getonbrd.com/api/v0/categories/data-science-analytics/jobs?per_page=100&page=1&expand[]=seniority&expand[]=company",
+  "fecha_captura_utc": "2026-11-06T18:48:40+00:00",
+  "http": 200,
+  "bytes": 755612,
+  "sha256": "2a784428dc9ae4962ed36ac45e13c009f443b8a213959cf53639a83d2573a5e0"
+ },
+ {
+  "archivo": "data/raw/agregadores/getonboard__data-science-analytics__2.json",
+  "fuente": "getonboard",
+  "url": "https://www.getonbrd.com/api/v0/categories/data-science-analytics/jobs?per_page=100&page=2&expand[]=seniority&expand[]=company",
+  "fecha_captura_utc": "2026-11-06T18:48:42+00:00",
+  "http": 200,
+  "bytes": 111819,
+  "sha256": "f4f9e7426391b7add213ae938ce2a9d5e362ad6c6b7450ea708f45a4535228e4"
+ }
+]

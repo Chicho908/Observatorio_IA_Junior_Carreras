@@ -40,7 +40,7 @@ ax.set_yticks(np.arange(5)+0.45); ax.set_yticklabels(lab[::-1]); ax.axvline(5-0.
 ax.text(2.5, 5.12, "Base", ha="center", fontweight="bold", color=AZ); ax.text(7.5, 5.12, "Producción", ha="center", fontweight="bold", color=OR)
 fig.savefig("informe/fig_planes.png", dpi=200, bbox_inches="tight"); plt.close()
 # 4 brecha
-b = pd.read_csv("data/processed/demanda_linea_base.csv"); b = b[b.grupo.isin(["base","produccion"])].set_index("habilidad").loc[hab]
+b = pd.read_csv("data/processed/resultados_demanda_linea_base.csv"); b = b[b.grupo.isin(["base","produccion"])].set_index("habilidad").loc[hab]
 cov = M.sum(axis=0)/5*100
 fig, ax = plt.subplots(figsize=(8.6, 4.6)); y = np.arange(10)[::-1]
 for yi, h, c in zip(y, hab, cov):

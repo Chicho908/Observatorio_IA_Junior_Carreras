@@ -2,7 +2,7 @@
 y perfila el embudo. NO se examinan habilidades en este paso."""
 import hashlib, pandas as pd
 from reglas import *
-a = pd.read_pickle("data/processed/api_unificado_bruto.pkl")
+a = pd.read_pickle("data/processed/avisos_api_bruto.pkl")
 # --- consultas por aviso (un aviso puede salir en varias búsquedas) y deduplicación por id
 cons = a.groupby("id_unico")["consulta"].agg(lambda s: " | ".join(sorted(set(map(str, s)))))
 a = a.drop_duplicates("id_unico").copy(); a["consulta"] = a.id_unico.map(cons)
@@ -25,8 +25,8 @@ def nivel(r):
     return nivel_v2(r.anios_req)
 d["nivel_regla"] = d.apply(nivel, axis=1)
 d["acceso"] = d.ubicacion.apply(grupo_acceso)
-d.to_pickle("data/processed/avisos_unificado.pkl")
-d.drop(columns=["texto"]).to_csv("data/processed/avisos_unificado_sin_texto.csv", index=False)
+d.to_pickle("data/processed/avisos_poblacion_unificada.pkl")
+d.drop(columns=["texto"]).to_csv("data/processed/avisos_poblacion_unificada.csv", index=False)
 print("SHA-256 LinkedIn limpio:", h)
 e = d.nivel_regla.str.startswith("entrada")
 t = pd.DataFrame({"avisos": d.groupby("fuente").size(),
