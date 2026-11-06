@@ -44,4 +44,4 @@ Buenas prácticas: User-Agent identificado («UNSTA-student-project, academic re
 61 empresas; fuentes: Greenhouse 42, Ashby 24, Himalayas 13, LinkedIn 12, Lever 3, Get on Board 2, Jobicy 1; acceso: otra región 81, Argentina 15, remoto sin país 1; idioma: 85 inglés y 12 español; mediana 633 palabras (104 a 1.878); fechas 11/2025 a 11/2026; años pedidos: 0 (4), 1 (23), 2 (68) y 2 sin años cuyo nivel es el declarado por la fuente.
 
 ## 5. Límites
-Los avisos cambian a diario (otra captura da otros avisos); los textos no se redistribuyen; los planes pueden cambiar y sus páginas no se guardaron con huella (por eso la codificación lleva cita y URL).
+Los avisos cambian a diario (otra captura da otros avisos); los textos se guardan solo en el repositorio privado; los planes pueden cambiar y sus páginas no se guardaron con huella (por eso la codificación lleva cita y URL).

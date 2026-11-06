@@ -15,3 +15,9 @@ Formato: versión · fecha · qué cambió · por qué · quién decidió.
 - Archivos renombrados con nombres descriptivos: `avisos_poblacion_unificada.csv`, `avisos_muestra_analisis.csv`, `resultados_demanda_linea_base.csv`, `resultados_cobertura_planes.csv`; script 03 pasó a `03_capturar_agregadores_y_getonboard.py`; informe a `informe_final.*`. Las huellas SHA-256 no cambian (dependen del contenido).
 - Nuevo `src/10_perfilado_de_datos.py` y carpeta `reports/` (perfilado y `metricas.json`).
 - Nuevo `docs/CONTINUIDAD_REVISION_Y_MONITOREO.md`.
+
+## 1.0.2 — 06/11/2026 (repositorio completo; resultados sin cambios)
+- Se incorporan al repositorio los datos crudos (`data/raw/`), los textos de la muestra y la hoja de lectura humana; el repositorio es privado (`docs/AVISO_DE_DATOS.md`).
+- Nuevos scripts 11 (preparar lectura humana) y 12 (kappa entre lectores), `docs/GUIA_LECTURA_HUMANA.md`.
+- `run_all.sh`: modos `reconstruir` (desde los crudos, sin red) y `publico` (zip sin crudos ni textos).
+- README reescrito con estructura, modos de uso y orden de ejecución.

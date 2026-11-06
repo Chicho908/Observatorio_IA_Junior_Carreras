@@ -185,7 +185,7 @@ Get on Board & API pública & 160 & Texto solo para lectura humana\\
 
 \subsection{Aspectos legales y éticos}\label{sec:legal}
 \begin{itemize}
-\item \textbf{LinkedIn.} Sus términos restringen la captura automatizada. El Directorio del Observatorio aprobó este método de captura para fines académicos. Por eso se declara como scraping automatizado y no como manual. Los textos de los avisos no se redistribuyen: se publican resultados agregados y los identificadores.
+\item \textbf{LinkedIn.} Sus términos restringen la captura automatizada. El Directorio del Observatorio aprobó este método de captura para fines académicos. Por eso se declara como scraping automatizado y no como manual. Los textos se guardan solo en el repositorio privado del equipo; la versión pública incluye resultados agregados e identificadores.
 \item \textbf{Get on Board.} Su \texttt{robots.txt} declara \texttt{ai-train=no}. Por eso su texto no se procesa de forma automática: se codifica solo a mano. Del procesamiento automático solo se usa su campo estructurado de nivel (\emph{seniority}).
 \item \textbf{Resto de las fuentes.} Son APIs públicas documentadas, usadas solo para investigación académica.
 \item \textbf{Planes de estudio.} Son páginas y PDF públicos; se citan y no se redistribuyen.
@@ -584,9 +584,9 @@ Entre los avisos para primer empleo en IA que juntamos, muchos piden más que en
 \section{Reproducibilidad y continuidad}\label{sec:repro}
 \textbf{Qué queda registrado.} Los archivos crudos sin modificar; un manifiesto con URL, fecha UTC, código HTTP, tamaño y huella SHA-256 de cada archivo; la configuración de búsquedas; las reglas con sus parámetros y semillas; el diccionario de la línea de base; las versiones de las herramientas.
 
-\textbf{Paquete de reproducción.} Se entrega una carpeta con el informe, los scripts numerados, la configuración y las tablas sin texto de avisos (README incluido). Los archivos crudos y los textos no se redistribuyen por las condiciones de LinkedIn y de Get on Board; sí se publican identificadores, URL y huellas.
+\textbf{Repositorio.} Se entrega un repositorio privado con el informe, los datos crudos tal como los devolvió cada fuente, los manifiestos, los scripts numerados, la configuración, las tablas procesadas, los textos de la muestra y la hoja para la lectura humana (README incluido). Como incluye textos de LinkedIn y de Get on Board, no debe hacerse público; un comando genera la versión pública sin crudos ni textos, con identificadores, URL y huellas.
 
-\textbf{Dos modos de uso.} \emph{Verificar} (sin red): recalcula $\Delta$, su intervalo y las figuras con los datos incluidos y compara las huellas con las esperadas. \emph{Nueva edición} (con red): repite todo el recorrido cambiando la fecha de corte.
+\textbf{Tres modos de uso.} \emph{Verificar} (sin red): recalcula $\Delta$, su intervalo y las figuras con las tablas incluidas y compara las huellas. \emph{Reconstruir} (sin red): rehace todo desde los datos crudos y comprueba que se obtienen las mismas huellas. \emph{Nueva edición} (con red): repite todo el recorrido cambiando la fecha de corte.
 
 \textbf{Todos los parámetros están en un solo archivo} (\texttt{parametros.json}): fecha de corte, semilla, número de remuestreos, vigencia, mínimo de palabras, tope por empresa, años máximos de entrada y número de hilos de HN. Se probó que, con los parámetros de esta edición, los scripts reproducen exactamente la muestra (misma huella) y la tabla de demanda.
 
@@ -607,6 +607,7 @@ Entre los avisos para primer empleo en IA que juntamos, muchos piden más que en
 8 & Cobertura de los planes, $\Delta$, intervalo y sensibilidad & Archivo de codificación & Tablas de cobertura\\
 9 & Figuras & Resultados & Figuras del informe\\
 10 & Perfilado de los datos y métricas de la edición & Tablas procesadas & Carpeta \texttt{reports} (perfilado y \texttt{metricas.json})\\
+11--12 & Textos y hoja de lectura humana; acuerdo (kappa) entre dos lectores & Muestra; hojas completadas & Carpeta \texttt{lectura\_humana}; \texttt{acuerdo\_lectura\_humana.csv}\\
 \bottomrule
 \end{tabularx}
 \caption{Orden de ejecución, entradas y salidas.}

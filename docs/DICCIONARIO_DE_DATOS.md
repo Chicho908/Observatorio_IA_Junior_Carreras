@@ -64,3 +64,6 @@ Una entrada por archivo crudo: `archivo`, `fuente`, `url` consultada, `fecha_cap
 | `figuras/perfil_*.png` | Valores vacíos por columna y distribuciones de la muestra |
 
 Nota: en la población hay 2.069 filas repetidas por empresa y título (mismo puesto en varias sedes o fuentes); no se eliminan allí porque la población describe lo publicado, y se resuelven en la muestra (regla de duplicados, 0 repetidos).
+
+## 9. `data/lectura_humana/`
+`avisos_muestra_con_texto.csv`: id_unico, fuente, empresa, titulo, url, idioma, codificacion_solo_humana, texto_limpio (los 97 avisos de la muestra, para leer). `hoja_lectura_plantilla.csv`: una fila por aviso y una columna por habilidad (vacías; 1 = el aviso la nombra, 0 = no), más observaciones. Ver `docs/GUIA_LECTURA_HUMANA.md`.

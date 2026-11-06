@@ -1,4 +1,3 @@
-data/raw/
 data/processed/*.pkl
 *.pkl
 __pycache__/
@@ -9,3 +8,4 @@ __pycache__/
 *.fls
 *.fdb_latexmk
 informe/informe_v1.tex
+publico/
