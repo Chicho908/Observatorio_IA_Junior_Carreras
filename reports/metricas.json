@@ -1,0 +1,27 @@
+{
+  "protocolo": "1.0",
+  "fecha_corte": "2026-11-06",
+  "avisos_poblacion": 18206,
+  "avisos_muestra": 97,
+  "empresas_muestra": 61,
+  "carreras_codificadas": 5,
+  "instituciones": 4,
+  "delta_media": 0.55,
+  "delta_ic95": [
+    0.3,
+    0.8
+  ],
+  "h1": "sostenida",
+  "semilla": 2026,
+  "remuestreos": 10000,
+  "huellas_sha256": {
+    "poblacion": "30a52ba1bcc50c247ea30a122bbf2e4659640099aebedd5e70a89a12dfa5a307",
+    "muestra": "e90b729bdfa8ec3a8592caaa6eb68ea04fa776d8e4d0363d3e2b026182c0e496"
+  },
+  "entorno": {
+    "python": "3.13.18",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3",
+    "matplotlib": "3.11.2"
+  }
+}

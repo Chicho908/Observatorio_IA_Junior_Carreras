@@ -1,0 +1,14 @@
+{
+  "poblacion": {
+    "filas": 18206,
+    "columnas": 18,
+    "duplicados_id_unico": 0,
+    "duplicados_empresa_titulo": 2069
+  },
+  "muestra": {
+    "filas": 97,
+    "columnas": 22,
+    "duplicados_id_unico": 0,
+    "duplicados_empresa_titulo": 0
+  }
+}
