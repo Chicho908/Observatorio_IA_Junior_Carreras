@@ -1,0 +1,128 @@
+[
+ {
+  "archivo": "data/raw/hn/indice_whoishiring.json",
+  "fuente": "hn_algolia",
+  "url": "https://hn.algolia.com/api/v1/search_by_date?tags=story,author_whoishiring&hitsPerPage=60",
+  "fecha_captura_utc": "2026-11-06T18:45:27+00:00",
+  "http": 200,
+  "bytes": 370852,
+  "sha256": "7a53d90af23b79d30680214cdefbe0af96ca2230330b987dc3ecbbe5fad9d6b3"
+ },
+ {
+  "archivo": "data/raw/hn/hilo_45800465.json",
+  "fuente": "hn_algolia",
+  "url": "https://hn.algolia.com/api/v1/items/45800465",
+  "fecha_captura_utc": "2026-11-06T18:45:30+00:00",
+  "http": 200,
+  "bytes": 669896,
+  "sha256": "5017a5ed8bb92a454f4351ed2f16cb206b69a629ee841968be682faea6853ec9"
+ },
+ {
+  "archivo": "data/raw/hn/hilo_45438503.json",
+  "fuente": "hn_algolia",
+  "url": "https://hn.algolia.com/api/v1/items/45438503",
+  "fecha_captura_utc": "2026-11-06T18:45:32+00:00",
+  "http": 200,
+  "bytes": 571933,
+  "sha256": "f48d29567c73bc80f51dfb5633ae03676c467ee71db9f064801ee4ba97a4ffe0"
+ },
+ {
+  "archivo": "data/raw/hn/hilo_45093192.json",
+  "fuente": "hn_algolia",
+  "url": "https://hn.algolia.com/api/v1/items/45093192",
+  "fecha_captura_utc": "2026-11-06T18:45:35+00:00",
+  "http": 200,
+  "bytes": 522807,
+  "sha256": "c1915782a945f2b185d71818172517853198c84675c086fd42ce4bf6260ab92c"
+ },
+ {
+  "archivo": "data/raw/hn/hilo_44757794.json",
+  "fuente": "hn_algolia",
+  "url": "https://hn.algolia.com/api/v1/items/44757794",
+  "fecha_captura_utc": "2026-11-06T18:45:37+00:00",
+  "http": 200,
+  "bytes": 534882,
+  "sha256": "e97e6b3b95aaa01b4a66f0dc68d4255e31a4ea66ae62ec72441e6dd9407f2923"
+ },
+ {
+  "archivo": "data/raw/hn/hilo_44434576.json",
+  "fuente": "hn_algolia",
+  "url": "https://hn.algolia.com/api/v1/items/44434576",
+  "fecha_captura_utc": "2026-11-06T18:45:40+00:00",
+  "http": 200,
+  "bytes": 572975,
+  "sha256": "c77d02d6b492ab2879e90698adffab2f7241948fcb3f8ded8576cdead789c9ad"
+ },
+ {
+  "archivo": "data/raw/hn/hilo_44159528.json",
+  "fuente": "hn_algolia",
+  "url": "https://hn.algolia.com/api/v1/items/44159528",
+  "fecha_captura_utc": "2026-11-06T18:45:43+00:00",
+  "http": 200,
+  "bytes": 598893,
+  "sha256": "47780e271fbe3cd1550f43fca60e761c51ad91b0d6fe8198ec3333e25b15c42b"
+ },
+ {
+  "archivo": "data/raw/hn/hilo_43858554.json",
+  "fuente": "hn_algolia",
+  "url": "https://hn.algolia.com/api/v1/items/43858554",
+  "fecha_captura_utc": "2026-11-06T18:45:45+00:00",
+  "http": 200,
+  "bytes": 525144,
+  "sha256": "8aee42286356b0c1af29089007c65477d661329fef35b8104cb591f224f8b369"
+ },
+ {
+  "archivo": "data/raw/hn/hilo_43547611.json",
+  "fuente": "hn_algolia",
+  "url": "https://hn.algolia.com/api/v1/items/43547611",
+  "fecha_captura_utc": "2026-11-06T18:45:48+00:00",
+  "http": 200,
+  "bytes": 549846,
+  "sha256": "428b37c584a72b6c890a9380e742c4a7f9060620b4e0a3042c8c5b2354ea9f5a"
+ },
+ {
+  "archivo": "data/raw/hn/hilo_43243024.json",
+  "fuente": "hn_algolia",
+  "url": "https://hn.algolia.com/api/v1/items/43243024",
+  "fecha_captura_utc": "2026-11-06T18:45:50+00:00",
+  "http": 200,
+  "bytes": 594415,
+  "sha256": "07b9271e7cad794c2f08f14eb55746ea7772d7f5b3d85f80d86ec35557a812d4"
+ },
+ {
+  "archivo": "data/raw/hn/hilo_42919502.json",
+  "fuente": "hn_algolia",
+  "url": "https://hn.algolia.com/api/v1/items/42919502",
+  "fecha_captura_utc": "2026-11-06T18:45:53+00:00",
+  "http": 200,
+  "bytes": 708566,
+  "sha256": "2798fdaabddf74e1219e79537bb6724df09953ef21998e8063f4ea17770429e9"
+ },
+ {
+  "archivo": "data/raw/hn/hilo_42575537.json",
+  "fuente": "hn_algolia",
+  "url": "https://hn.algolia.com/api/v1/items/42575537",
+  "fecha_captura_utc": "2026-11-06T18:45:55+00:00",
+  "http": 200,
+  "bytes": 510129,
+  "sha256": "d935627e7b013e2130015f8f92c0e1745900307b741b786c46977d09b670579e"
+ },
+ {
+  "archivo": "data/raw/hn/hilo_42297424.json",
+  "fuente": "hn_algolia",
+  "url": "https://hn.algolia.com/api/v1/items/42297424",
+  "fecha_captura_utc": "2026-11-06T18:45:58+00:00",
+  "http": 200,
+  "bytes": 543516,
+  "sha256": "8eeea664430ee31a7e4bbf785c22105e09ca635e76127fa4b5b17fe18cd2a614"
+ },
+ {
+  "archivo": "data/raw/hn/hilo_42017580.json",
+  "fuente": "hn_algolia",
+  "url": "https://hn.algolia.com/api/v1/items/42017580",
+  "fecha_captura_utc": "2026-11-06T18:46:00+00:00",
+  "http": 200,
+  "bytes": 544647,
+  "sha256": "9934febff38897b4f9735568e65b6a7febf8d11d9e6a497de8979e18e86fd98e"
+ }
+]
