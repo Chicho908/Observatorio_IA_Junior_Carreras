@@ -67,3 +67,4 @@ Nota: en la población hay 2.069 filas repetidas por empresa y título (mismo pu
 
 ## 9. `data/lectura_humana/`
 `avisos_muestra_con_texto.csv`: id_unico, fuente, empresa, titulo, url, idioma, codificacion_solo_humana, texto_limpio (los 97 avisos de la muestra, para leer). `hoja_lectura_plantilla.csv`: una fila por aviso y una columna por habilidad (vacías; 1 = el aviso la nombra, 0 = no), más observaciones. Ver `docs/GUIA_LECTURA_HUMANA.md`.
+`muestra_control_filtro_titulo.csv`: 100 avisos de nivel de entrada sin término de IA en el título (semilla 2026), con columna `es_rol_ia_(1/0)` a completar. `plantilla_codificacion_planes_lector2.csv`: las 50 celdas carrera × habilidad con URL, para la segunda codificación independiente.

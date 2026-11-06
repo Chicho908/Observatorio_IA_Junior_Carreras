@@ -21,3 +21,6 @@ Formato: versión · fecha · qué cambió · por qué · quién decidió.
 - Nuevos scripts 11 (preparar lectura humana) y 12 (kappa entre lectores), `docs/GUIA_LECTURA_HUMANA.md`.
 - `run_all.sh`: modos `reconstruir` (desde los crudos, sin red) y `publico` (zip sin crudos ni textos).
 - README reescrito con estructura, modos de uso y orden de ejecución.
+
+## 1.0.3 — 06/11/2026 (sin cambios en resultados)
+- Nuevo `docs/PENDIENTES.md` (por qué y cómo de cada pendiente), `src/13_acuerdo_planes.py` (kappa de los planes) y archivos de trabajo en `data/lectura_humana/`: plantilla del segundo lector de planes y muestra de control del filtro por título (100 avisos, semilla 2026).

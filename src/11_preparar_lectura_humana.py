@@ -16,3 +16,13 @@ for h in hab: t[h] = ""
 t["observaciones"] = ""
 t.to_csv("data/lectura_humana/hoja_lectura_plantilla.csv", index=False)
 print(len(t), "avisos;", len(hab), "habilidades:", hab)
+
+# Muestra de control del filtro por titulo: 100 avisos de nivel de entrada cuyo titulo NO tiene termino de rol de IA.
+# Se leen a mano para estimar cuantos eran roles de IA (falsos negativos del filtro). Semilla fija.
+P = json.load(open("config/parametros.json"))
+pob = pd.read_pickle("data/processed/avisos_poblacion_unificada.pkl")
+ctrl = pob[(~pob.rol_ia_titulo) & pob.nivel_regla.str.startswith("entrada")]
+ctrl = ctrl.sample(n=100, random_state=P["semilla"])[["id_unico", "fuente", "empresa", "titulo", "url"]].copy()
+ctrl["es_rol_ia_(1/0)"] = ""; ctrl["observaciones"] = ""
+ctrl.to_csv("data/lectura_humana/muestra_control_filtro_titulo.csv", index=False)
+print("control:", len(ctrl), "avisos de", len(pob[(~pob.rol_ia_titulo) & pob.nivel_regla.str.startswith('entrada')]), "posibles")
