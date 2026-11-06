@@ -9,7 +9,7 @@ Edición 1 · corte 06/11/2026 · Fundamentos de Ciencia de Datos, UNSTA · M. A
 ```
 informe/                    Informe final (informe_final.pdf, fuente .tex y figuras)
 data/raw/                   Fuentes crudas, tal como las devolvió cada fuente (no se editan)
-  boards/                     413 respuestas de tableros de Greenhouse, Lever y Ashby
+  boards/                     respuestas de los 411 tableros de Greenhouse, Lever y Ashby que respondieron (más manifiesto y registro)
   agregadores/                Himalayas, Jobicy, RemoteOK, Remotive y Get on Board
   hn/                         36 hilos «Ask HN: Who is hiring?» (descubrimiento de tableros)
   linkedin/                   Captura de LinkedIn (Apify), limpia, con huella

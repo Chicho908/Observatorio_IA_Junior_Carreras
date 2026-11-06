@@ -1,5 +1,5 @@
 """Verifica que lo publicado se reproduce: huellas SHA-256 de los archivos y resultado de Delta.
-Uso (desde la carpeta raiz del paquete): python src/00_verificar.py
+Uso (desde la carpeta raiz del repositorio): python src/00_verificar.py
 Los archivos que contienen texto de avisos no se redistribuyen: si faltan, se informa 'no presente' y no es un error."""
 import hashlib, json, os, subprocess, sys
 ok = True

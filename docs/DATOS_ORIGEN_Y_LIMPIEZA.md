@@ -1,6 +1,6 @@
 # De dónde salieron los datos, qué se hizo y cómo se limpió
 
-Captura realizada el **06/11/2026** (UTC). Los archivos crudos no se modifican; cada uno tiene URL, fecha, código HTTP, tamaño y SHA-256 en `data/raw/*/manifiesto_*.json` (en el paquete de reproducción: `data/manifiestos/`).
+Captura realizada el **06/11/2026** (UTC). Los archivos crudos no se modifican; cada uno tiene URL, fecha, código HTTP, tamaño y SHA-256 en `data/raw/*/manifiesto_*.json` (copia en `data/manifiestos/`, que también va en la versión pública).
 
 ## 1. Fuentes
 | Fuente | Qué es | Cómo se obtuvo | Avisos únicos |

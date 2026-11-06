@@ -47,7 +47,7 @@ Una fila = un aviso de entrada y de rol de IA, vigente, con ≥100 palabras, sin
 ## 5. `data/processed/resultados_cobertura_planes.csv`
 Por carrera: proporción de habilidades de base con evidencia (`base`), de producción (`produccion`) y `delta` = base − producción.
 
-## 6. `data/raw/*/manifiesto_*.json` (copiados en `data/manifiestos/` del paquete)
+## 6. `data/raw/*/manifiesto_*.json` (copiados en `data/manifiestos/` para la versión pública, que no lleva `data/raw/`)
 Una entrada por archivo crudo: `archivo`, `fuente`, `url` consultada, `fecha_captura_utc`, `http` (código), `bytes`, `sha256`.
 
 ## 7. `config/*.json`
