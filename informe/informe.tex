@@ -618,6 +618,8 @@ Entre los avisos para primer empleo en IA que juntamos, muchos piden más que en
 \item Muestra de análisis sin texto (97 avisos):\\ {\footnotesize\texttt{e90b729bdfa8ec3a8592caaa6eb68ea04fa776d8e4d0363d3e2b026182c0e496}}
 \end{itemize}
 
+\textbf{Repositorio y documentación.} El paquete es un repositorio de Git con historial de cambios. Además del README (orden de ejecución y archivos vigentes) incluye \texttt{docs/DATOS\_ORIGEN\_Y\_LIMPIEZA.md} (de dónde salió cada dato, qué se hizo, qué se limpió y perfil de la muestra), \texttt{docs/DICCIONARIO\_DE\_DATOS.md} (columnas de cada tabla) y \texttt{CHANGELOG.md} (versión del protocolo y correcciones). El Anexo~\ref{anx:datos} resume la tabla de la muestra.
+
 \textbf{Cómo repetirlo en otra edición o año.} Se usan las mismas cuatro palabras clave; se descubren de nuevo los tableros con los hilos del período y se registra cuántos responden; se aplican las mismas reglas y semillas sin cambiar umbrales; se guarda todo en una carpeta fechada con su manifiesto; se vuelve a consultar cada plan; y solo se comparan ediciones si reglas y fuentes son las mismas. Cualquier cambio de fuente o regla se registra como una nueva versión del protocolo.
 
 \textbf{Cómo ampliarlo.} Se pueden sumar tableros, palabras clave (\emph{data engineer, MLOps, python developer}) o zonas, justificando cada ampliación y reportando su efecto en la población.
@@ -796,6 +798,34 @@ D29 & Get on Board: texto solo para lectura humana & Estándar & Su \texttt{robo
 \bottomrule
 \end{longtable}
 \end{footnotesize}
+
+\section{Diccionario de datos de la muestra}\label{anx:datos}
+Tabla \texttt{muestra\_entrada\_IA\_sin\_texto.csv} (97 filas; una fila es un aviso). La población unificada tiene las mismas columnas hasta \texttt{acceso}. El diccionario completo de todas las tablas está en el repositorio.
+
+\begin{table}[H]
+\centering\small
+\begin{tabularx}{\textwidth}{L{4.7cm} L{1.9cm} X}
+\toprule
+\textbf{Columna} & \textbf{Tipo} & \textbf{Significado}\\
+\midrule
+\texttt{id\_unico} & texto & Fuente e identificador del aviso\\
+\texttt{fuente}, \texttt{metodo\_captura} & texto & Plataforma y modo de captura (API pública o scraping)\\
+\texttt{fecha\_captura}, \texttt{sha256\_origen} & fecha, texto & Cuándo se pidió y huella del archivo crudo de origen\\
+\texttt{url} & texto & Enlace público del aviso\\
+\texttt{fecha\_publicacion} & fecha & Según la plataforma\\
+\texttt{titulo}, \texttt{empresa}, \texttt{ubicacion} & texto & Tal como los publica la fuente\\
+\texttt{modalidad}, \texttt{nivel\_declarado} & texto & Declarados por la fuente; con muchos vacíos; no se usan para clasificar\\
+\texttt{codificacion\_solo\_humana} & lógico & Verdadero en Get on Board (\texttt{ai-train=no})\\
+\texttt{rol\_ia\_titulo} & lógico & El título contiene un término de rol de IA\\
+\texttt{anios\_req} & número & Máximo de años pedidos en contexto de experiencia; vacío si no se informa\\
+\texttt{nivel\_regla} & texto & Entrada, no entrada o sin dato, según la regla\\
+\texttt{acceso} & texto & Argentina, remoto sin país u otra región\\
+\texttt{idioma}, \texttt{palabras}, \texttt{dias} & texto, número & Idioma, largo del texto y antigüedad al corte\\
+\texttt{clave} & texto & Empresa y título normalizados (control de duplicados)\\
+\bottomrule
+\end{tabularx}
+\caption{Columnas de la muestra de análisis.}
+\end{table}
 
 \section{Glosario}
 \begin{description}[leftmargin=3.2cm,style=nextline]
