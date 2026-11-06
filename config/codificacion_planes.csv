@@ -1,0 +1,51 @@
+carrera,institucion,habilidad,grupo,valor,asignatura,cita,url
+UADE Lic. IA y Ciencia de Datos,UADE,Python,base,1,Python para ciencia de datos,"Python para ciencia de datos: introducción a las librerías pandas, numpy, scikit-learn",https://www.uade.edu.ar/facultad-de-ingenieria-y-ciencias-exactas/licenciatura-en-inteligencia-artificial-y-ciencia-de-datos/plan-de-estudios/
+UADE Lic. IA y Ciencia de Datos,UADE,SQL,base,1,Bases de datos relacionales,Lenguaje de consulta estructurado (SQL),idem
+UADE Lic. IA y Ciencia de Datos,UADE,Estadística,base,1,Inferencia y estimación,Ensayos de hipótesis en poblaciones normales,idem
+UADE Lic. IA y Ciencia de Datos,UADE,ML clásico,base,1,Machine Learning I,"Árboles de decisión, Random Forest, SVM; clustering (K-means)",idem
+UADE Lic. IA y Ciencia de Datos,UADE,Deep learning,base,1,Deep Learning: redes neuronales avanzadas,Redes neuronales convolucionales y recurrentes; Keras y TensorFlow,idem
+UADE Lic. IA y Ciencia de Datos,UADE,Integración,produccion,1,Automatización de procesos empresariales con AI,Integración de tecnologías de inteligencia artificial en flujos de trabajo empresariales (caso límite: ver nota),idem
+UADE Lic. IA y Ciencia de Datos,UADE,Despliegue,produccion,1,Seminario integrador de ciencia de datos,Implementación y despliegue de modelos en un entorno de producción,idem
+UADE Lic. IA y Ciencia de Datos,UADE,Monitoreo,produccion,1,Seminario integrador de ciencia de datos,Monitoreo y mantenimiento de modelos en producción,idem
+UADE Lic. IA y Ciencia de Datos,UADE,Nube/contenedores,produccion,1,Canalización e integración de servicios de nube,"Infraestructura de nube; revisión de AWS SageMaker, Google AI Platform y Azure Machine Learning",idem
+UADE Lic. IA y Ciencia de Datos,UADE,Git,produccion,NA,,,idem
+Palermo Ing. en IA,Palermo,Python,base,1,Introducción a la Programación,La materia se apoya sobre el lenguaje de programación Python,https://www.palermo.edu/ingenieria/ingenieria-inteligencia-artificial/plan_estudio.html
+Palermo Ing. en IA,Palermo,SQL,base,1,Base de Datos,Lenguajes DBMS: SQL,idem
+Palermo Ing. en IA,Palermo,Estadística,base,1,Probabilidad y Estadística,Estimación de parámetros y pruebas de hipótesis,idem
+Palermo Ing. en IA,Palermo,ML clásico,base,1,Aprendizaje de Máquina,Aprendizaje supervisado y no supervisado,idem
+Palermo Ing. en IA,Palermo,Deep learning,base,1,Redes Neuronales,Redes neuronales densas; redes convolucionales; redes recurrentes,idem
+Palermo Ing. en IA,Palermo,Integración,produccion,NA,,,idem
+Palermo Ing. en IA,Palermo,Despliegue,produccion,NA,,,idem
+Palermo Ing. en IA,Palermo,Monitoreo,produccion,NA,,,idem
+Palermo Ing. en IA,Palermo,Nube/contenedores,produccion,1,Procesamiento de Lenguaje Natural; Big Data,Servicios para procesamiento intensivo en la nube; Cloud. IoT,idem
+Palermo Ing. en IA,Palermo,Git,produccion,NA,,,idem
+Palermo Lic. en IA,Palermo,Python,base,1,Introducción a la Programación,La materia se apoya sobre el lenguaje de programación Python,https://www.palermo.edu/ingenieria/licenciatura-inteligencia-artificial/plan_estudio.html
+Palermo Lic. en IA,Palermo,SQL,base,1,Base de Datos,Lenguajes DBMS: SQL,idem
+Palermo Lic. en IA,Palermo,Estadística,base,1,Probabilidad y Estadística,Estimación de parámetros y pruebas de hipótesis,idem
+Palermo Lic. en IA,Palermo,ML clásico,base,1,Aprendizaje de Máquina,Aprendizaje supervisado y no supervisado,idem
+Palermo Lic. en IA,Palermo,Deep learning,base,1,Redes Neuronales,Redes neuronales densas; redes convolucionales; redes recurrentes,idem
+Palermo Lic. en IA,Palermo,Integración,produccion,NA,,,idem
+Palermo Lic. en IA,Palermo,Despliegue,produccion,NA,,,idem
+Palermo Lic. en IA,Palermo,Monitoreo,produccion,NA,,,idem
+Palermo Lic. en IA,Palermo,Nube/contenedores,produccion,1,Procesamiento de Lenguaje Natural; Big Data,Servicios para procesamiento intensivo en la nube; Cloud. IoT,idem
+Palermo Lic. en IA,Palermo,Git,produccion,NA,,,idem
+UNL Ing. en IA,UNL,Python,base,NA,,"No nombra el lenguaje (Programación I-III)",https://www.unl.edu.ar/wp-content/uploads/2018/05/plan-de-estudios-inteligencia-artificial.pdf
+UNL Ing. en IA,UNL,SQL,base,1,Laboratorio de Datos I,Lenguaje SQL,idem
+UNL Ing. en IA,UNL,Estadística,base,1,Probabilidad y estadística; Inferencia estadística,Estimadores puntuales e intervalos de confianza,idem
+UNL Ing. en IA,UNL,ML clásico,base,1,Aprendizaje automático,Aprendizaje supervisado (clasificación y regresión); k vecinos más cercanos; árboles de decisión,idem
+UNL Ing. en IA,UNL,Deep learning,base,1,Redes neuronales I y II,Perceptrón multicapa; redes convolucionales; LSTM,idem
+UNL Ing. en IA,UNL,Integración,produccion,NA,,,idem
+UNL Ing. en IA,UNL,Despliegue,produccion,NA,,,idem
+UNL Ing. en IA,UNL,Monitoreo,produccion,NA,,,idem
+UNL Ing. en IA,UNL,Nube/contenedores,produccion,NA,,,idem
+UNL Ing. en IA,UNL,Git,produccion,NA,Laboratorio de Datos II,"Versionado (no nombra Git ni control de versiones; caso límite)",idem
+UTN-FRLP Lic. en IA,UTN-FRLP,Python,base,NA,,"No nombra Python; cita scikit-learn, pandas, matplotlib (Aprendizaje Automático, p. 33; caso límite)",https://www.frlp.utn.edu.ar/sites/default/files/2188%20-%20LICENCIATURA%20EN%20INT%20ART.pdf
+UTN-FRLP Lic. en IA,UTN-FRLP,SQL,base,NA,Bases de Datos,"Lenguajes de acceso a Bases de Datos Relacionales (p. 28; no nombra SQL; caso límite)",idem
+UTN-FRLP Lic. en IA,UTN-FRLP,Estadística,base,1,Probabilidad y Estadística,Estadística descriptiva. Probabilidad. Variables aleatorias (p. 27),idem
+UTN-FRLP Lic. en IA,UTN-FRLP,ML clásico,base,1,Aprendizaje Automático; Ciencias de Datos,Aprendizaje supervisado; algoritmos de clasificación y agrupamiento (pp. 33 y 35),idem
+UTN-FRLP Lic. en IA,UTN-FRLP,Deep learning,base,1,Aprendizaje Profundo,Diseñar y entrenar modelos de deep learning aplicados a datos complejos (p. 37),idem
+UTN-FRLP Lic. en IA,UTN-FRLP,Integración,produccion,1,Visión Artificial y Lenguaje Natural; Desarrollo de Software,Desarrollar aplicaciones que integren modelos de PLN y visión por computadora (p. 36); aplicaciones orientadas a servicios (p. 29),idem
+UTN-FRLP Lic. en IA,UTN-FRLP,Despliegue,produccion,NA,,,idem
+UTN-FRLP Lic. en IA,UTN-FRLP,Monitoreo,produccion,NA,Redes de Datos,Monitoreo y gestión de redes (es de redes de computadoras; no cuenta),idem
+UTN-FRLP Lic. en IA,UTN-FRLP,Nube/contenedores,produccion,NA,,,idem
+UTN-FRLP Lic. en IA,UTN-FRLP,Git,produccion,NA,,,idem

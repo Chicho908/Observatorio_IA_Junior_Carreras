@@ -1,0 +1,12 @@
+{
+  "_nota": "Parametros de una edicion. Cambiar solo con justificacion y registrar como nueva version del protocolo (ver README, seccion 'Nueva edicion').",
+  "version_protocolo": "1.0",
+  "fecha_corte": "2026-11-06",
+  "semilla": 2026,
+  "remuestreos": 10000,
+  "vigencia_dias": 365,
+  "min_palabras": 100,
+  "tope_por_empresa": 10,
+  "anios_entrada_max": 2,
+  "n_hilos_hn": 36
+}

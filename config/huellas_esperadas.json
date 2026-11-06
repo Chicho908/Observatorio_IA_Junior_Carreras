@@ -1,0 +1,5 @@
+{
+ "data/raw/linkedin/avisos_IA_AR_limpio_2026-11-06.csv": "c7faf9b9d6711970941b929cd76c80bcda3e813fa1bee953f6adaf67422a2548",
+ "data/processed/avisos_unificado_sin_texto.csv": "30a52ba1bcc50c247ea30a122bbf2e4659640099aebedd5e70a89a12dfa5a307",
+ "data/processed/muestra_entrada_IA_sin_texto.csv": "e90b729bdfa8ec3a8592caaa6eb68ea04fa776d8e4d0363d3e2b026182c0e496"
+}

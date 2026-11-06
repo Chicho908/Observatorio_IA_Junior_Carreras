@@ -1,0 +1,20 @@
+{
+ "version": "1.0 (fijada antes de ver resultados)",
+ "base": {
+  "Python": "\\bpython\\b",
+  "SQL": "\\bsql\\b|postgres|mysql",
+  "Estadística": "statistic|estad[ií]stic|hypothesis test|prueba de hip[oó]tesis|probabilit|probabilidad",
+  "ML clásico": "scikit|sklearn|xgboost|lightgbm|random forest|gradient boost|decision tree|[áa]rbol(?:es)? de decisi[oó]n|logistic regression|linear regression|regresi[oó]n|clustering|\\bsvm\\b",
+  "Deep learning": "deep learning|aprendizaje profundo|neural net|redes? neuronal|pytorch|tensorflow|keras"
+ },
+ "produccion": {
+  "Integración": "\\bapis?\\b|\\brest(?:ful)?\\b|fastapi|flask|grpc|microservic",
+  "Despliegue": "deploy|despleg|in production|a producci[oó]n|en producci[oó]n|ci/cd|model serving|\\bmlops\\b",
+  "Monitoreo": "monitor|observabilit|\\bdrift\\b|prometheus|grafana",
+  "Nube/contenedores": "\\baws\\b|\\bazure\\b|\\bgcp\\b|google cloud|docker|kubernetes|\\bk8s\\b|\\bcloud\\b|\\bnube\\b|contenedor|sagemaker|vertex",
+  "Git": "\\bgit\\b|github|gitlab|bitbucket|control de versiones|version control"
+ },
+ "ia_actual": {
+  "LLM/RAG/APIs de modelos": "\\bllms?\\b|large language model|\\brag\\b|retrieval[- ]augmented|\\bprompt|openai|anthropic|langchain|llamaindex|generative ai|\\bgenai\\b|ia generativa|\\bagent(?:ic|s)?\\b|ag[eé]ntic"
+ }
+}

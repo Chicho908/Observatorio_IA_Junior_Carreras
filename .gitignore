@@ -1,0 +1,11 @@
+data/raw/
+data/processed/*.pkl
+*.pkl
+__pycache__/
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+informe/informe_v1.tex
