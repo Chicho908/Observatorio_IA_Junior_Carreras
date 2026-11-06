@@ -606,6 +606,7 @@ Entre los avisos para primer empleo en IA que juntamos, muchos piden más que en
 7 & Línea de base de demanda & Muestra y diccionario & Tabla de demanda\\
 8 & Cobertura de los planes, $\Delta$, intervalo y sensibilidad & Archivo de codificación & Tablas de cobertura\\
 9 & Figuras & Resultados & Figuras del informe\\
+10 & Perfilado de los datos y métricas de la edición & Tablas procesadas & Carpeta \texttt{reports} (perfilado y \texttt{metricas.json})\\
 \bottomrule
 \end{tabularx}
 \caption{Orden de ejecución, entradas y salidas.}
@@ -618,7 +619,9 @@ Entre los avisos para primer empleo en IA que juntamos, muchos piden más que en
 \item Muestra de análisis sin texto (97 avisos):\\ {\footnotesize\texttt{e90b729bdfa8ec3a8592caaa6eb68ea04fa776d8e4d0363d3e2b026182c0e496}}
 \end{itemize}
 
-\textbf{Repositorio y documentación.} El paquete es un repositorio de Git con historial de cambios. Además del README (orden de ejecución y archivos vigentes) incluye \texttt{docs/DATOS\_ORIGEN\_Y\_LIMPIEZA.md} (de dónde salió cada dato, qué se hizo, qué se limpió y perfil de la muestra), \texttt{docs/DICCIONARIO\_DE\_DATOS.md} (columnas de cada tabla) y \texttt{CHANGELOG.md} (versión del protocolo y correcciones). El Anexo~\ref{anx:datos} resume la tabla de la muestra.
+\textbf{Repositorio y documentación.} El paquete es un repositorio de Git con historial de cambios. Además del README (orden de ejecución y archivos vigentes) incluye \texttt{docs/DATOS\_ORIGEN\_Y\_LIMPIEZA.md} (de dónde salió cada dato, qué se hizo, qué se limpió y perfil de la muestra), \texttt{docs/DICCIONARIO\_DE\_DATOS.md} (columnas de cada tabla) y \texttt{CHANGELOG.md} (versión del protocolo y correcciones). La carpeta \texttt{reports} guarda el perfilado de los datos (tipos, vacíos, duplicados, distribuciones) y las métricas de la edición. El Anexo~\ref{anx:datos} resume la tabla de la muestra.
+
+\textbf{Continuidad, revisión entre pares y monitoreo.} La línea debe poder seguir aunque sus autores dejen de participar. Los cargos del Observatorio todavía no están asignados; el documento \texttt{CONTINUIDAD\_REVISION\_Y\_MONITOREO.md} deja el cuadro para completarlo. Antes de publicar, una persona de otra línea revisa con una lista de siete preguntas (problema claro, origen de los datos, decisiones justificadas, números coincidentes con \texttt{metricas.json}, afirmaciones acotadas, límites declarados, ausencia de daño a terceros); es una revisión breve, no un proceso formal. Para el monitoreo, como el producto es un informe y no un servicio, en cada edición se vigilan cambios de esquema de las API, cambios de distribución respecto de la edición anterior, cambios en los planes, pérdida de acceso a una fuente y falta de uso del producto.
 
 \textbf{Cómo repetirlo en otra edición o año.} Se usan las mismas cuatro palabras clave; se descubren de nuevo los tableros con los hilos del período y se registra cuántos responden; se aplican las mismas reglas y semillas sin cambiar umbrales; se guarda todo en una carpeta fechada con su manifiesto; se vuelve a consultar cada plan; y solo se comparan ediciones si reglas y fuentes son las mismas. Cualquier cambio de fuente o regla se registra como una nueva versión del protocolo.
 
@@ -800,7 +803,7 @@ D29 & Get on Board: texto solo para lectura humana & Estándar & Su \texttt{robo
 \end{footnotesize}
 
 \section{Diccionario de datos de la muestra}\label{anx:datos}
-Tabla \texttt{muestra\_entrada\_IA\_sin\_texto.csv} (97 filas; una fila es un aviso). La población unificada tiene las mismas columnas hasta \texttt{acceso}. El diccionario completo de todas las tablas está en el repositorio.
+Tabla \texttt{avisos\_muestra\_analisis.csv} (97 filas; una fila es un aviso). La población unificada tiene las mismas columnas hasta \texttt{acceso}. El diccionario completo de todas las tablas está en el repositorio.
 
 \begin{table}[H]
 \centering\small

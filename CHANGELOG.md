@@ -10,3 +10,8 @@ Formato: versión · fecha · qué cambió · por qué · quién decidió.
 - Corrección: tableros respondidos 411 y no 413.
 - Parámetros movidos a `config/parametros.json`; los resultados no cambiaron (misma huella de la muestra, misma tabla de demanda).
 - Pendiente: lectura humana doble (kappa), segunda lectura de planes, seis carreras sin contenidos, entrevistas, fecha y acta del Directorio para LinkedIn.
+
+## 1.0.1 — 06/11/2026 (solo documentación y orden; los resultados no cambian)
+- Archivos renombrados con nombres descriptivos: `avisos_poblacion_unificada.csv`, `avisos_muestra_analisis.csv`, `resultados_demanda_linea_base.csv`, `resultados_cobertura_planes.csv`; script 03 pasó a `03_capturar_agregadores_y_getonboard.py`; informe a `informe_final.*`. Las huellas SHA-256 no cambian (dependen del contenido).
+- Nuevo `src/10_perfilado_de_datos.py` y carpeta `reports/` (perfilado y `metricas.json`).
+- Nuevo `docs/CONTINUIDAD_REVISION_Y_MONITOREO.md`.

@@ -2,7 +2,7 @@
 
 Cada tabla indica qué es una fila, de dónde sale y qué significa cada columna. «NA» = dato ausente; en la codificación de planes, NA significa información insuficiente y no «cero».
 
-## 1. `data/processed/avisos_unificado_sin_texto.csv` (población unificada; 18.206 filas)
+## 1. `data/processed/avisos_poblacion_unificada.csv` (población unificada; 18.206 filas)
 Una fila = un aviso único (identificador `fuente:id`). Generada por `src/04_unificar.py` y `src/05_seleccion.py`. No incluye el texto.
 | Columna | Tipo | Significado |
 |---|---|---|
@@ -23,7 +23,7 @@ Una fila = un aviso único (identificador `fuente:id`). Generada por `src/04_uni
 | `nivel_regla` | texto | `entrada (<=2)`, `no entrada (>=3)`, `entrada/no entrada (declarada)` o `sin dato` ; valores reales: `no entrada (>=3)` 10.405, `sin dato` 5.329, `entrada (<=2)` 2.312, `no entrada (declarada)` 149, `entrada (declarada)` 11 |
 | `acceso` | texto | Argentina; LatAm o mundial declarado; remoto sin país; otra región |
 
-## 2. `data/processed/muestra_entrada_IA_sin_texto.csv` (muestra de análisis; 97 filas)
+## 2. `data/processed/avisos_muestra_analisis.csv` (muestra de análisis; 97 filas)
 Una fila = un aviso de entrada y de rol de IA, vigente, con ≥100 palabras, sin repetir empresa y título, máximo 10 por empresa. Generada por `src/06_preparar.py`. Tiene las columnas de la tabla 1 y además:
 | Columna | Significado |
 |---|---|
@@ -32,7 +32,7 @@ Una fila = un aviso de entrada y de rol de IA, vigente, con ≥100 palabras, sin
 | `dias` | días entre la publicación y la fecha de corte |
 | `clave` | clave de duplicado (empresa + título normalizados) |
 
-## 3. `data/processed/demanda_linea_base.csv` (11 + 3 filas)
+## 3. `data/processed/resultados_demanda_linea_base.csv` (11 + 3 filas)
 `habilidad`, `grupo` (base, produccion, ia_actual, resumen), `avisos` (k), `pct` (100·k/n, n = 95), `ic_inf`, `ic_sup` (IC 95 % por remuestreo de empresas, 10.000, semilla 2026).
 
 ## 4. `config/codificacion_planes.csv` (50 filas = 5 carreras × 10 habilidades)
@@ -44,7 +44,7 @@ Una fila = un aviso de entrada y de rol de IA, vigente, con ≥100 palabras, sin
 | `asignatura`, `cita` | dónde y con qué texto (celdas positivas y casos límite) |
 | `url` | página o PDF consultado el 06/11/2026 («idem» = la de la fila anterior de la misma carrera) |
 
-## 5. `data/processed/cobertura_planes_por_carrera.csv`
+## 5. `data/processed/resultados_cobertura_planes.csv`
 Por carrera: proporción de habilidades de base con evidencia (`base`), de producción (`produccion`) y `delta` = base − producción.
 
 ## 6. `data/raw/*/manifiesto_*.json` (copiados en `data/manifiestos/` del paquete)
@@ -52,3 +52,15 @@ Una entrada por archivo crudo: `archivo`, `fuente`, `url` consultada, `fecha_cap
 
 ## 7. `config/*.json`
 `parametros.json` (parámetros de la edición), `busquedas.json` (palabras clave y categorías), `diccionario_habilidades.json` (expresiones regulares de la línea de base, v1.0), `tableros_descubiertos.json` (tableros de Greenhouse/Lever/Ashby descubiertos), `huellas_esperadas.json`.
+
+## 8. `reports/` (generado por `src/10_perfilado_de_datos.py`)
+| Archivo | Contenido |
+|---|---|
+| `metricas.json` | Métricas de la edición: tamaños, Δ, intervalo, veredicto de H1, semilla, huellas SHA-256 y versiones del entorno |
+| `perfilado_columnas_*.csv` | Por columna: tipo, nulos, % de nulos, valores únicos (población y muestra) |
+| `perfilado_numericas_*.csv` | Estadísticos descriptivos de las columnas numéricas |
+| `perfilado_frecuencias_*.csv` | Conteos por fuente, nivel, acceso e idioma |
+| `perfilado_resumen.json` | Filas, columnas y duplicados (por identificador y por empresa más título) |
+| `figuras/perfil_*.png` | Valores vacíos por columna y distribuciones de la muestra |
+
+Nota: en la población hay 2.069 filas repetidas por empresa y título (mismo puesto en varias sedes o fuentes); no se eliminan allí porque la población describe lo publicado, y se resuelven en la muestra (regla de duplicados, 0 repetidos).

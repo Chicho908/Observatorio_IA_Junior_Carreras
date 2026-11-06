@@ -2,7 +2,7 @@
 Edición 1 (corte 06/11/2026). Fundamentos de Ciencia de Datos, UNSTA. Autores: M. A. Chalín, L. A. Sappia, L. A. Tartarini.
 
 Este paquete permite (A) **verificar** los resultados del informe sin red y (B) **repetir** el estudio en otra fecha.
-El informe (`informe/informe.pdf`) justifica cada decisión; el Anexo C las reúne todas en una tabla.
+El informe (`informe/informe_final.pdf`) justifica cada decisión; el Anexo C las reúne todas en una tabla.
 
 ## 1. Qué hay en cada carpeta
 | Ruta | Contenido |
@@ -26,10 +26,12 @@ Los archivos crudos y los textos de los avisos **no se redistribuyen**: LinkedIn
 |---|---|
 | `docs/DATOS_ORIGEN_Y_LIMPIEZA.md` | De dónde salió cada dato, cómo se capturó, qué se hizo en cada paso, qué se limpió y perfil de la muestra |
 | `docs/DICCIONARIO_DE_DATOS.md` | Columnas, tipos y significado de cada tabla y archivo de configuración |
+| `docs/CONTINUIDAD_REVISION_Y_MONITOREO.md` | Quién sigue, lista de revisión entre pares y señales de monitoreo |
+| `reports/` | Perfilado de datos y `metricas.json` de la edición (los genera `src/10_perfilado_de_datos.py`) |
 | `CHANGELOG.md` | Versiones del protocolo y correcciones (cuál es la versión vigente y por qué cambió) |
-| `informe/informe.pdf` | Informe final (versión vigente); `informe_v1.tex` es solo histórico |
+| `informe/informe_final.pdf` | Informe final (versión vigente); `informe_v1.tex` es solo histórico |
 
-**Archivos vigentes:** `data/processed/*.csv` (se regeneran con `src/`), `config/*` y `informe/informe.pdf`. Todo lo demás es histórico o intermedio y no debe usarse para citar resultados.
+**Archivos vigentes:** `data/processed/*.csv` (se regeneran con `src/`), `config/*` y `informe/informe_final.pdf`. Todo lo demás es histórico o intermedio y no debe usarse para citar resultados.
 
 ## 2. Verificar (sin red)
 ```
@@ -43,14 +45,15 @@ Comprueba las huellas de los archivos presentes y recalcula Δ (esperado 0,55; I
 |---|---|---|---|---|
 | 1 | `01_descubrir_tableros.py` | hilos «Ask HN: Who is hiring?» | `config/tableros_descubiertos.json` | sí |
 | 2 | `02_capturar_tableros.py` | tableros descubiertos | `data/raw/boards/` + manifiesto | sí |
-| 3 | `03_capturar_agregadores_gob.py` | `config/busquedas.json` | `data/raw/agregadores/` + manifiesto | sí |
+| 3 | `03_capturar_agregadores_y_getonboard.py` | `config/busquedas.json` | `data/raw/agregadores/` + manifiesto | sí |
 | LinkedIn | (manual, ver 4) | cuatro búsquedas | `data/raw/linkedin/…csv` | sí |
-| 4 | `04_unificar.py` | crudos + manifiestos | `api_unificado_bruto.pkl` | no |
+| 4 | `04_unificar.py` | crudos + manifiestos | `avisos_api_bruto.pkl` | no |
 | 5 | `05_seleccion.py` | API + LinkedIn | `avisos_unificado*.{pkl,csv}` | no |
 | 6 | `06_preparar.py` | población unificada | muestra de análisis | no |
-| 7 | `07_linea_base.py` | muestra + diccionario | `demanda_linea_base.csv` | no |
+| 7 | `07_linea_base.py` | muestra + diccionario | `resultados_demanda_linea_base.csv` | no |
 | 8 | `08_cobertura_planes.py` | `codificacion_planes.csv` | cobertura, Δ, IC, sensibilidad | no |
 | 9 | `09_figuras.py` | resultados | `informe/fig_*.png` | no |
+| 10 | `10_perfilado_de_datos.py` | tablas procesadas | `reports/` (perfilado y métricas) | no |
 
 ## 4. Captura de LinkedIn (declarada tal como se hizo)
 Scraping automatizado con el actor de Apify `dataji/apify-linkdin-jobs` (v0.0.7): ubicación Argentina, sin filtro de nivel, exclusión de títulos con senior/sr/lead/principal/staff/head/manager/director, descripción completa, tope 300 por búsqueda; cuatro búsquedas (`machine learning`, `AI engineer`, `data scientist`, `inteligencia artificial`). Costo aproximado: USD 0,60. Requiere aprobación del Directorio (fecha y acta: completar). Guardar el resultado en `data/raw/linkedin/` con la fecha y registrar su SHA-256.
